@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">54a8837697458a10e7dbbd0de053af25</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-24 01:10:25</sys_created_on>
+        <sys_id>25a8837697458a10e7dbbd0de053afaf</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sp_instance_25a8837697458a10e7dbbd0de053afaf</sys_update_name>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-24 01:12:36</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<pre class=\"language-javascript\"><code>&lt;script&gt;\r\nconst charactersList = document.getElementById('charactersList');\r\nconst searchBar = document.getElementById('searchBar');\r\nlet hpCharacters = [];\r\n\r\nsearchBar.addEventListener('keyup', (e) =&gt; {\r\n    const searchString = e.target.value.toLowerCase();\r\n\r\n    const filteredCharacters = hpCharacters.filter((character) =&gt; {\r\n        return (\r\n            character.name.toLowerCase().includes(searchString) ||\r\n            character.house.toLowerCase().includes(searchString)\r\n        );\r\n    });\r\n    displayCharacters(filteredCharacters);\r\n});\r\n\r\nconst loadCharacters = async () =&gt; {\r\n    try {\r\n        const res = await fetch('https://hp-api.onrender.com/api/characters');\r\n        hpCharacters = await res.json();\r\n        displayCharacters(hpCharacters);\r\n    } catch (err) {\r\n        console.error(err);\r\n    }\r\n};\r\n\r\nconst displayCharacters = (characters) =&gt; {\r\n    const htmlString = characters\r\n        .map((character) =&gt; {\r\n            return `\r\n            &lt;li class=\"character\"&gt;\r\n                &lt;h2&gt;${character.name}&lt;/h2&gt;\r\n                &lt;p&gt;House: ${character.house}&lt;/p&gt;\r\n                &lt;img src=\"${character.image}\"&gt;&lt;/img&gt;\r\n            &lt;/li&gt;\r\n        `;\r\n        })\r\n        .join('');\r\n    charactersList.innerHTML = htmlString;\r\n};\r\n\r\nloadCharacters();\r\n&lt;/script&gt;</code></pre>",
+		"displayValue": "<pre class=\"language-javascript\"><code>&lt;script&gt;\nconst charactersList = document.getElementById('charactersList');\nconst searchBar = document.getElementById('searchBar');\nlet hpCharacters = [];\n\nsearchBar.addEventListener('keyup', (e) =&gt; {\n    const searchString = e.target.value.toLowerCase();\n\n    const filteredCharacters = hpCharacters.filter((character) =&gt; {\n        return (\n            character.name.toLowerCase().includes(searchString) ||\n            character.house.toLowerCase().includes(searchString)\n        );\n    });\n    displayCharacters(filteredCharacters);\n});\n\nconst loadCharacters = async () =&gt; {\n    try {\n        const res = await fetch('https://hp-api.onrender.com/api/characters');\n        hpCharacters = await res.json();\n        displayCharacters(hpCharacters);\n    } catch (err) {\n        console.error(err);\n    }\n};\n\nconst displayCharacters = (characters) =&gt; {\n    const htmlString = characters\n        .map((character) =&gt; {\n            return `\n            &lt;li class=\"character\"&gt;\n                &lt;h2&gt;${character.name}&lt;/h2&gt;\n                &lt;p&gt;House: ${character.house}&lt;/p&gt;\n                &lt;img src=\"${character.image}\"&gt;&lt;/img&gt;\n            &lt;/li&gt;\n        `;\n        })\n        .join('');\n    charactersList.innerHTML = htmlString;\n};\n\nloadCharacters();\n&lt;/script&gt;</code></pre>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=25a8837697458a10e7dbbd0de053afaf"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Library Application">a680020d97010210e7dbbd0de053af64</application>
+        <file_path/>
+        <instance_id>5f2e1938dbbeb59038f11729139619f4</instance_id>
+        <instance_name>dev226011</instance_name>
+        <name>sp_instance_25a8837697458a10e7dbbd0de053afaf</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;54a8837697458a10e7dbbd0de053af25&lt;/sp_column&gt;&lt;sp_widget display_value="HTML"&gt;8679ef89cb21120000f8d856634c9c4f&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Maria&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-03-24 01:10:25&lt;/sys_created_on&gt;&lt;sys_id&gt;25a8837697458a10e7dbbd0de053afaf&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Library Application" source="x_1342778_library"&gt;a680020d97010210e7dbbd0de053af64&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Library Application"&gt;a680020d97010210e7dbbd0de053af64&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_25a8837697458a10e7dbbd0de053afaf&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Maria&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-03-24 01:12:36&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"html": {
+		"value": "&lt;pre class=\"language-javascript\"&gt;&lt;code&gt;&amp;lt;script&amp;gt;\r\nconst charactersList = document.getElementById('charactersList');\r\nconst searchBar = document.getElementById('searchBar');\r\nlet hpCharacters = [];\r\n\r\nsearchBar.addEventListener('keyup', (e) =&amp;gt; {\r\n    const searchString = e.target.value.toLowerCase();\r\n\r\n    const filteredCharacters = hpCharacters.filter((character) =&amp;gt; {\r\n        return (\r\n            character.name.toLowerCase().includes(searchString) ||\r\n            character.house.toLowerCase().includes(searchString)\r\n        );\r\n    });\r\n    displayCharacters(filteredCharacters);\r\n});\r\n\r\nconst loadCharacters = async () =&amp;gt; {\r\n    try {\r\n        const res = await fetch('https://hp-api.onrender.com/api/characters');\r\n        hpCharacters = await res.json();\r\n        displayCharacters(hpCharacters);\r\n    } catch (err) {\r\n        console.error(err);\r\n    }\r\n};\r\n\r\nconst displayCharacters = (characters) =&amp;gt; {\r\n    const htmlString = characters\r\n        .map((character) =&amp;gt; {\r\n            return `\r\n            &amp;lt;li class=\"character\"&amp;gt;\r\n                &amp;lt;h2&amp;gt;${character.name}&amp;lt;/h2&amp;gt;\r\n                &amp;lt;p&amp;gt;House: ${character.house}&amp;lt;/p&amp;gt;\r\n                &amp;lt;img src=\"${character.image}\"&amp;gt;&amp;lt;/img&amp;gt;\r\n            &amp;lt;/li&amp;gt;\r\n        `;\r\n        })\r\n        .join('');\r\n    charactersList.innerHTML = htmlString;\r\n};\r\n\r\nloadCharacters();\r\n&amp;lt;/script&amp;gt;&lt;/code&gt;&lt;/pre&gt;",
+		"displayValue": "&lt;pre class=\"language-javascript\"&gt;&lt;code&gt;&amp;lt;script&amp;gt;\nconst charactersList = document.getElementById('charactersList');\nconst searchBar = document.getElementById('searchBar');\nlet hpCharacters = [];\n\nsearchBar.addEventListener('keyup', (e) =&amp;gt; {\n    const searchString = e.target.value.toLowerCase();\n\n    const filteredCharacters = hpCharacters.filter((character) =&amp;gt; {\n        return (\n            character.name.toLowerCase().includes(searchString) ||\n            character.house.toLowerCase().includes(searchString)\n        );\n    });\n    displayCharacters(filteredCharacters);\n});\n\nconst loadCharacters = async () =&amp;gt; {\n    try {\n        const res = await fetch('https://hp-api.onrender.com/api/characters');\n        hpCharacters = await res.json();\n        displayCharacters(hpCharacters);\n    } catch (err) {\n        console.error(err);\n    }\n};\n\nconst displayCharacters = (characters) =&amp;gt; {\n    const htmlString = characters\n        .map((character) =&amp;gt; {\n            return `\n            &amp;lt;li class=\"character\"&amp;gt;\n                &amp;lt;h2&amp;gt;${character.name}&amp;lt;/h2&amp;gt;\n                &amp;lt;p&amp;gt;House: ${character.house}&amp;lt;/p&amp;gt;\n                &amp;lt;img src=\"${character.image}\"&amp;gt;&amp;lt;/img&amp;gt;\n            &amp;lt;/li&amp;gt;\n        `;\n        })\n        .join('');\n    charactersList.innerHTML = htmlString;\n};\n\nloadCharacters();\n&amp;lt;/script&amp;gt;&lt;/code&gt;&lt;/pre&gt;"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=25a8837697458a10e7dbbd0de053afaf"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1855581894</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>4482f21a9785c610e7dbbd0de053af4a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-24 01:12:36</sys_created_on>
+        <sys_id>2929c37697458a10e7dbbd0de053af2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e6e0442f10000001</sys_recorded_at>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-24 01:12:36</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>ad29c376aa458a10b0a7f1eaee298b2c</update_guid>
+        <update_guid_history>ad29c376aa458a10b0a7f1eaee298b2c:-1855581894,02f8873647458a105df46e35592a60ef:2087956122,1cb8c376c0458a10bf0693893e9271cb:-1855581894,29a883760b458a106545101e1ab711b0:-1590292416</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">36dbdbfe97858a10e7dbbd0de053af1c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-24 02:34:20</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>03c3a5ce629d475281d1e6416ae59b59</sys_id>
+        <sys_metadata>25a8837697458a10e7dbbd0de053afaf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_scope_delete display_value="">24f5bd0c63804281887d4a30a154c0d1</sys_scope_delete>
+        <sys_update_name>sp_instance_25a8837697458a10e7dbbd0de053afaf</sys_update_name>
+        <sys_update_version display_value="sp_instance_25a8837697458a10e7dbbd0de053afaf">2929c37697458a10e7dbbd0de053af2d</sys_update_version>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-24 02:34:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

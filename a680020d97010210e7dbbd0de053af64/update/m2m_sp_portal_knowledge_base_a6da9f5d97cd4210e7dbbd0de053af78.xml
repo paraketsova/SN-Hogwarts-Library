@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_knowledge_base">
+    <m2m_sp_portal_knowledge_base action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <kb_knowledge_base display_value="">c3569b1597cd4210e7dbbd0de053af48</kb_knowledge_base>
+        <order>100</order>
+        <sp_portal display_value="Hogwart's library portal">0d630b4197090210e7dbbd0de053afa0</sp_portal>
+        <sys_class_name>m2m_sp_portal_knowledge_base</sys_class_name>
+        <sys_created_by>Micke</sys_created_by>
+        <sys_created_on>2024-03-19 10:39:03</sys_created_on>
+        <sys_id>a6da9f5d97cd4210e7dbbd0de053af78</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Library.Hogwarts Library Portal</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>m2m_sp_portal_knowledge_base_a6da9f5d97cd4210e7dbbd0de053af78</sys_update_name>
+        <sys_updated_by>Micke</sys_updated_by>
+        <sys_updated_on>2024-03-19 10:39:03</sys_updated_on>
+    </m2m_sp_portal_knowledge_base>
+</record_update>

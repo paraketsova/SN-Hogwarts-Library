@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="sys_embedded_tour_guide">
+    <sys_embedded_tour_guide action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <additional_parameters/>
+        <autolaunch_order>0</autolaunch_order>
+        <context>lib?id=index_new&amp;gtd_portal_title=Hogwart's library portal&amp;gtd_page_title=Hogwarts Homepage</context>
+        <description/>
+        <has_concl>true</has_concl>
+        <has_intro>false</has_intro>
+        <name>Presentation of the page</name>
+        <options/>
+        <roles/>
+        <route_parameters/>
+        <sp_page display_value="index_new">09ed379197c18210e7dbbd0de053af01</sp_page>
+        <sp_portal display_value="Hogwart's library portal">0d630b4197090210e7dbbd0de053afa0</sp_portal>
+        <status>published</status>
+        <sys_class_name>sys_embedded_tour_guide</sys_class_name>
+        <sys_created_by>Micke</sys_created_by>
+        <sys_created_on>2024-03-21 13:48:27</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path/>
+        <sys_id>98691242978d4610e7dbbd0de053affd</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Presentation of the page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sys_embedded_tour_guide_98691242978d4610e7dbbd0de053affd</sys_update_name>
+        <sys_updated_by>Micke</sys_updated_by>
+        <sys_updated_on>2024-03-21 13:56:51</sys_updated_on>
+        <tour_id>TOUR0000009</tour_id>
+        <type>service_portal</type>
+    </sys_embedded_tour_guide>
+</record_update>

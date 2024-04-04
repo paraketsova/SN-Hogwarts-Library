@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Fill in required fields for books</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+	
+      if (g_form.getValue('requestor_reserved_books') == '' || g_form.getValue('status_reserved_books') == '' || g_form.getValue('book_name') == '')  {
+        g_form.addInfoMessage("Please fill in the Requestor, Status and Book Name fields before you submit the form.");
+    }
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>maria</sys_created_by>
+        <sys_created_on>2024-03-26 07:09:17</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path/>
+        <sys_id>2fadaaaf97c18e10e7dbbd0de053af45</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Fill in required fields for books</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sys_script_client_2fadaaaf97c18e10e7dbbd0de053af45</sys_update_name>
+        <sys_updated_by>maria</sys_updated_by>
+        <sys_updated_on>2024-03-26 07:44:12</sys_updated_on>
+        <table>x_1342778_library_reserved_books</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

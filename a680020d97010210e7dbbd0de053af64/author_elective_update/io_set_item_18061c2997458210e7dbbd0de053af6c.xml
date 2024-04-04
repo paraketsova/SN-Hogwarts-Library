@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="Transferens">918b8791978d4210e7dbbd0de053afd6</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>Micke</sys_created_by>
+        <sys_created_on>2024-03-19 14:57:29</sys_created_on>
+        <sys_id>18061c2997458210e7dbbd0de053af6c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Catalog item questions.Transferens</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>io_set_item_18061c2997458210e7dbbd0de053af6c</sys_update_name>
+        <sys_updated_by>Micke</sys_updated_by>
+        <sys_updated_on>2024-03-19 14:57:30</sys_updated_on>
+        <variable_set display_value="Catalog item questions">9d890ce197058210e7dbbd0de053affd</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Library Application">a680020d97010210e7dbbd0de053af64</application>
+        <file_path/>
+        <instance_id>5f2e1938dbbeb59038f11729139619f4</instance_id>
+        <instance_name>dev226011</instance_name>
+        <name>io_set_item_18061c2997458210e7dbbd0de053af6c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="Transferens">918b8791978d4210e7dbbd0de053afd6</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>Micke</sys_created_by><sys_created_on>2024-03-19 14:57:29</sys_created_on><sys_id>18061c2997458210e7dbbd0de053af6c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Catalog item questions.Transferens</sys_name><sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package><sys_policy/><sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope><sys_update_name>io_set_item_18061c2997458210e7dbbd0de053af6c</sys_update_name><sys_updated_by>Micke</sys_updated_by><sys_updated_on>2024-03-19 14:57:30</sys_updated_on><variable_set display_value="Catalog item questions">9d890ce197058210e7dbbd0de053affd</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>-1575600590</payload_hash>
+        <record_name>Catalog item questions.Transferens</record_name>
+        <reverted_from/>
+        <source>64ccb31197c18210e7dbbd0de053af86</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Micke</sys_created_by>
+        <sys_created_on>2024-03-19 14:57:30</sys_created_on>
+        <sys_id>1006506997458210e7dbbd0de053afad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e5737ac390000001</sys_recorded_at>
+        <sys_updated_by>Micke</sys_updated_by>
+        <sys_updated_on>2024-03-19 14:57:30</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>140650692845821012de76c223a1feac</update_guid>
+        <update_guid_history>140650692845821012de76c223a1feac:-1575600590</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">c22020a197c58210e7dbbd0de053afeb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Micke</sys_created_by>
+        <sys_created_on>2024-03-19 15:41:52</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>47c5864f05cd4fb0b1dccd7c20744390</sys_id>
+        <sys_metadata>18061c2997458210e7dbbd0de053af6c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Catalog item questions.Transferens</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_scope_delete display_value="">24f5bd0c63804281887d4a30a154c0d1</sys_scope_delete>
+        <sys_update_name>io_set_item_18061c2997458210e7dbbd0de053af6c</sys_update_name>
+        <sys_update_version display_value="io_set_item_18061c2997458210e7dbbd0de053af6c">1006506997458210e7dbbd0de053afad</sys_update_version>
+        <sys_updated_by>Micke</sys_updated_by>
+        <sys_updated_on>2024-03-19 15:41:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

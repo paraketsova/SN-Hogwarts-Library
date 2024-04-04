@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Most popular books">d57e131e9789c610e7dbbd0de053af27</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>Helena</sys_created_by>
+        <sys_created_on>2024-03-22 13:28:44</sys_created_on>
+        <sys_id>117e131e9789c610e7dbbd0de053af28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d57e131e9789c610e7dbbd0de053af27</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sys_report_users_groups_117e131e9789c610e7dbbd0de053af28</sys_update_name>
+        <sys_updated_by>Helena</sys_updated_by>
+        <sys_updated_on>2024-03-22 13:28:44</sys_updated_on>
+        <user_id display_value="">cc88438097c50210e7dbbd0de053af38</user_id>
+    </sys_report_users_groups>
+</record_update>

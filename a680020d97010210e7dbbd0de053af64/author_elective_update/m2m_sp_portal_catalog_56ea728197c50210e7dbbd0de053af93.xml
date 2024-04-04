@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="DELETE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="Books">08dcde4597050210e7dbbd0de053afc6</sc_catalog>
+        <sp_portal display_value="Hogwarts Library">24c6fe8997850210e7dbbd0de053af48</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>Clas</sys_created_by>
+        <sys_created_on>2024-03-18 13:41:01</sys_created_on>
+        <sys_id>56ea728197c50210e7dbbd0de053af93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Books.Hogwarts Library</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_56ea728197c50210e7dbbd0de053af93</sys_update_name>
+        <sys_updated_by>Clas</sys_updated_by>
+        <sys_updated_on>2024-03-18 13:41:01</sys_updated_on>
+    </m2m_sp_portal_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Library Application">a680020d97010210e7dbbd0de053af64</application>
+        <file_path/>
+        <instance_id>5f2e1938dbbeb59038f11729139619f4</instance_id>
+        <instance_name>dev226011</instance_name>
+        <name>m2m_sp_portal_catalog_56ea728197c50210e7dbbd0de053af93</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog"><m2m_sp_portal_catalog action="INSERT_OR_UPDATE"><active>true</active><order>100</order><sc_catalog display_value="Books">08dcde4597050210e7dbbd0de053afc6</sc_catalog><sp_portal display_value="Hogwarts Library">24c6fe8997850210e7dbbd0de053af48</sp_portal><sys_class_name>m2m_sp_portal_catalog</sys_class_name><sys_created_by>Clas</sys_created_by><sys_created_on>2024-03-18 13:41:01</sys_created_on><sys_id>56ea728197c50210e7dbbd0de053af93</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Books.Hogwarts Library</sys_name><sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package><sys_policy/><sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope><sys_update_name>m2m_sp_portal_catalog_56ea728197c50210e7dbbd0de053af93</sys_update_name><sys_updated_by>Clas</sys_updated_by><sys_updated_on>2024-03-18 13:41:01</sys_updated_on></m2m_sp_portal_catalog></record_update>]]></payload>
+        <payload_hash>-1981769659</payload_hash>
+        <record_name>Books.Hogwarts Library</record_name>
+        <reverted_from/>
+        <source>a6808e4d97410210e7dbbd0de053af15</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Clas</sys_created_by>
+        <sys_created_on>2024-03-18 13:41:01</sys_created_on>
+        <sys_id>96ea728197c50210e7dbbd0de053af97</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e51cb4cc60000001</sys_recorded_at>
+        <sys_updated_by>Clas</sys_updated_by>
+        <sys_updated_on>2024-03-18 13:41:01</sys_updated_on>
+        <type>Portal Catalog</type>
+        <update_guid>9aea7281b6c502108be2cbf76b3e4096</update_guid>
+        <update_guid_history>9aea7281b6c502108be2cbf76b3e4096:-1981769659</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">7a0f3e8997c50210e7dbbd0de053af35</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Clas</sys_created_by>
+        <sys_created_on>2024-03-18 13:59:05</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_portal_catalog">m2m_sp_portal_catalog</sys_db_object>
+        <sys_id>21c6d2c9adff41709f693e0508536024</sys_id>
+        <sys_metadata>56ea728197c50210e7dbbd0de053af93</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Books.Hogwarts Library</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_scope_delete display_value="">24f5bd0c63804281887d4a30a154c0d1</sys_scope_delete>
+        <sys_update_name>m2m_sp_portal_catalog_56ea728197c50210e7dbbd0de053af93</sys_update_name>
+        <sys_update_version display_value="m2m_sp_portal_catalog_56ea728197c50210e7dbbd0de053af93">96ea728197c50210e7dbbd0de053af97</sys_update_version>
+        <sys_updated_by>Clas</sys_updated_by>
+        <sys_updated_on>2024-03-18 13:59:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

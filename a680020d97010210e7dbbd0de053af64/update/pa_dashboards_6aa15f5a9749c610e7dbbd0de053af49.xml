@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="pa_dashboards">
+    <pa_dashboards action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <breakdown_source/>
+        <color>#664d4d</color>
+        <disable_multiple_element>false</disable_multiple_element>
+        <group display_value="Platform">e065af250b5a230024f8ae9b37673a59</group>
+        <groups/>
+        <is_breakdown>false</is_breakdown>
+        <managed_breakdown/>
+        <managed_publisher/>
+        <name>Hogwarths Library</name>
+        <no_bulk_migration>false</no_bulk_migration>
+        <no_tabs>false</no_tabs>
+        <notification_link_label/>
+        <notification_link_url/>
+        <notification_text/>
+        <order>100</order>
+        <owner display_value="">cc88438097c50210e7dbbd0de053af38</owner>
+        <restrict_to_roles>x_1342778_library.admin,admin,x_1342778_library.reserved_books_user,x_1342778_library.librarian,snc_internal</restrict_to_roles>
+        <role_override>true</role_override>
+        <roles/>
+        <should_migrate_permissions>false</should_migrate_permissions>
+        <sys_class_name>pa_dashboards</sys_class_name>
+        <sys_created_by>Helena</sys_created_by>
+        <sys_created_on>2024-03-22 12:46:30</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path/>
+        <sys_id>6aa15f5a9749c610e7dbbd0de053af49</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Hogwarths Library</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>pa_dashboards_6aa15f5a9749c610e7dbbd0de053af49</sys_update_name>
+        <sys_updated_by>Helena</sys_updated_by>
+        <sys_updated_on>2024-03-22 16:50:37</sys_updated_on>
+        <users/>
+        <visible_to>2</visible_to>
+    </pa_dashboards>
+</record_update>

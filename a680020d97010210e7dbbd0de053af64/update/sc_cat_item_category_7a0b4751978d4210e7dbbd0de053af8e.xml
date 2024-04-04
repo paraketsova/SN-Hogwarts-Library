@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Försvar mot svartkonst">dc0b8351978d4210e7dbbd0de053af66</sc_cat_item>
+        <sc_category display_value="Encyclopedia">3b60a28997050210e7dbbd0de053af63</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>Micke</sys_created_by>
+        <sys_created_on>2024-03-19 09:30:00</sys_created_on>
+        <sys_id>7a0b4751978d4210e7dbbd0de053af8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Encyclopedia.Försvar mot svartkonst</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sc_cat_item_category_7a0b4751978d4210e7dbbd0de053af8e</sys_update_name>
+        <sys_updated_by>Micke</sys_updated_by>
+        <sys_updated_on>2024-03-19 09:30:00</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

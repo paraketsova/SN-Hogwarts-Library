@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css>body {
+  	background-color: black;
+}
+
+#carousel-01 {
+		margin-bottom: 3rem;
+    padding-bottom: 3rem;
+}
+
+#title-hl{
+		text-align: center;
+		padding-top: 2rem;
+    margine-top: 2rem;
+}
+
+p {
+    font-size: 1em;
+    padding: 15px 0px;
+    color: #fff;
+    text-align: center;
+}
+  
+h3 {
+  font-size: 2em;
+  padding: 15px 0px;
+  color: #fff;
+  text-align: center;
+}
+
+#book-1 img,
+#book-2 img, 
+#book-3 img {
+  margin-top: 40px;
+  margin-bottom: 5px;
+  height: 450px;
+  width-max: 250px;
+}
+
+#book-1 a:link, a:visited,
+#book-2 a:link, a:visited,
+#book-3 a:link, a:visited,
+#links a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover,
+a:active {
+    background-color: black;
+  }
+
+#links a {
+	text-align: center;
+}
+
+#book-club,
+#calling {
+  border: dotted 1px white;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+#calling {
+	margin-top: 1.5rem;
+}
+
+#calling p {
+  padding: 1rem 2rem;
+}
+
+#book-club {
+	margin: 2rem 0;
+}
+
+#book-club p {
+	margin: 0 2rem;
+  padding: 1rem 0;
+}
+
+#announcement,
+#announcement-2 {
+	border: dotted 1px white;
+  padding: 1rem;
+  height: 35rem; 
+}
+
+#announcement p {
+  line-height: 2;
+}
+
+#stamp img {
+  height: 7rem;
+}
+
+#trademark-footer {
+	padding-top: 3rem;
+}</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <human_readable_url_structure/>
+        <id>hogwarts_landing_page</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-22 07:40:44</sys_created_on>
+        <sys_id>bfce029a9781c610e7dbbd0de053af7f</sys_id>
+        <sys_mod_count>119</sys_mod_count>
+        <sys_name>hogwarts_landing_page</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sp_page_bfce029a9781c610e7dbbd0de053af7f</sys_update_name>
+        <sys_updated_by>maria</sys_updated_by>
+        <sys_updated_on>2024-03-26 09:54:45</sys_updated_on>
+        <title>Hogwarts landing page</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=bfce029a9781c610e7dbbd0de053af7f"/>
+</record_update>

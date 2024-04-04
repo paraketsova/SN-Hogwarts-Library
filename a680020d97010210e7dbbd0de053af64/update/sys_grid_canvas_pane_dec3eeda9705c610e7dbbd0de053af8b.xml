@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="New Tab 1">d0b3eeda9705c610e7dbbd0de053af56</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2024-03-22 02:12:24">9ec3eeda9705c610e7dbbd0de053af87</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>Clas</sys_created_by>
+        <sys_created_on>2024-03-22 09:12:24</sys_created_on>
+        <sys_id>dec3eeda9705c610e7dbbd0de053af8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d0b3eeda9705c610e7dbbd0de053af56</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_dec3eeda9705c610e7dbbd0de053af8b</sys_update_name>
+        <sys_updated_by>Clas</sys_updated_by>
+        <sys_updated_on>2024-03-22 09:12:24</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>

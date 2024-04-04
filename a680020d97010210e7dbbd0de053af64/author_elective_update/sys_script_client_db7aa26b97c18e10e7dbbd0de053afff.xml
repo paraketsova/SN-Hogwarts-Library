@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>requestor_reserved_books</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Fill in Status and Book fields</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+
+   //Type appropriate comment here, and begin script below
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-26 06:57:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>db7aa26b97c18e10e7dbbd0de053afff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fill in Status and Book fields</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sys_script_client_db7aa26b97c18e10e7dbbd0de053afff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-26 06:57:24</sys_updated_on>
+        <table>x_1342778_library_reserved_books</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Library Application">a680020d97010210e7dbbd0de053af64</application>
+        <file_path/>
+        <instance_id>5f2e1938dbbeb59038f11729139619f4</instance_id>
+        <instance_name>dev226011</instance_name>
+        <name>sys_script_client_db7aa26b97c18e10e7dbbd0de053afff</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;requestor_reserved_books&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Fill in Status and Book fields&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+
+   //Type appropriate comment here, and begin script below
+   
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-03-26 06:57:24&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;db7aa26b97c18e10e7dbbd0de053afff&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Fill in Status and Book fields&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Library Application" source="x_1342778_library"&gt;a680020d97010210e7dbbd0de053af64&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Library Application"&gt;a680020d97010210e7dbbd0de053af64&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_db7aa26b97c18e10e7dbbd0de053afff&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-03-26 06:57:24&lt;/sys_updated_on&gt;&lt;table&gt;x_1342778_library_reserved_books&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-976070742</payload_hash>
+        <record_name>Fill in Status and Book fields</record_name>
+        <reverted_from/>
+        <source>28fae66b97c18e10e7dbbd0de053affe</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-26 06:57:24</sys_created_on>
+        <sys_id>ff3bee6b97c18e10e7dbbd0de053afe7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e798ca6bb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-26 06:57:24</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>f33bee6bd6c18e1019e280020b6085e7</update_guid>
+        <update_guid_history>f33bee6bd6c18e1019e280020b6085e7:-976070742</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-26 06:57:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>29a567541aa54299a8007307831e1cf9</sys_id>
+        <sys_metadata>db7aa26b97c18e10e7dbbd0de053afff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fill in Status and Book fields</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_parent display_value="Reserved books">ffaba5b997c10610e7dbbd0de053af9e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_scope_delete display_value="">24f5bd0c63804281887d4a30a154c0d1</sys_scope_delete>
+        <sys_update_name>sys_script_client_db7aa26b97c18e10e7dbbd0de053afff</sys_update_name>
+        <sys_update_version display_value="sys_script_client_db7aa26b97c18e10e7dbbd0de053afff">ff3bee6b97c18e10e7dbbd0de053afe7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-26 06:57:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

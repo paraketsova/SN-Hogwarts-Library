@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Reserved books</name>
+        <order/>
+        <roles>x_1342778_library.reserved_books_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>Helena</sys_created_by>
+        <sys_created_on>2024-03-20 15:55:54</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path/>
+        <sys_id>a5fc253d97c10610e7dbbd0de053afac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reserved books</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sys_ui_application_a5fc253d97c10610e7dbbd0de053afac</sys_update_name>
+        <sys_updated_by>Helena</sys_updated_by>
+        <sys_updated_on>2024-03-20 15:55:54</sys_updated_on>
+    </sys_ui_application>
+</record_update>

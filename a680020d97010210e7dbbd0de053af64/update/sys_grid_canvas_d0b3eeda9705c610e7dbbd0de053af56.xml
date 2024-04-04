@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="New Tab 1">50b3eeda9705c610e7dbbd0de053af54</legacy_page>
+        <name>New Tab 1</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>Clas</sys_created_by>
+        <sys_created_on>2024-03-22 09:12:00</sys_created_on>
+        <sys_id>d0b3eeda9705c610e7dbbd0de053af56</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 1</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sys_grid_canvas_d0b3eeda9705c610e7dbbd0de053af56</sys_update_name>
+        <sys_updated_by>Clas</sys_updated_by>
+        <sys_updated_on>2024-03-22 09:12:00</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

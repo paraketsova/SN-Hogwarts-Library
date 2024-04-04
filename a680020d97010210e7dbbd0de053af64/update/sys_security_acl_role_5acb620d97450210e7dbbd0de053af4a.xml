@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-18 12:34:57</sys_created_on>
+        <sys_id>5acb620d97450210e7dbbd0de053af4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1342778_library_author.x_1342778_library.author_user</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_security_acl display_value="x_1342778_library_author">1ecb620d97450210e7dbbd0de053af35</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5acb620d97450210e7dbbd0de053af4a</sys_update_name>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-18 12:34:57</sys_updated_on>
+        <sys_user_role display_value="x_1342778_library.author_user" name="x_1342778_library.author_user">46cbaac997450210e7dbbd0de053af78</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

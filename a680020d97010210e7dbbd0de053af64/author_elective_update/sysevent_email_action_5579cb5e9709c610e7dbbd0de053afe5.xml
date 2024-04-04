@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="sysevent_email_action">
+    <sysevent_email_action action="DELETE">
+        <action_insert>false</action_insert>
+        <action_update>false</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>kb_feedback</collection>
+        <condition/>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<br><hr><br>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name/>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html/>
+        <message_list/>
+        <message_text/>
+        <messaging_channels/>
+        <messaging_content/>
+        <name>Test Push</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>true</push_message_only>
+        <recipient_fields/>
+        <recipient_groups/>
+        <recipient_users>7d825ac597c10210e7dbbd0de053afc4,9df74b0c97850210e7dbbd0de053af70,cc88438097c50210e7dbbd0de053af38,3748070097c50210e7dbbd0de053af7a</recipient_users>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject/>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>Clas</sys_created_by>
+        <sys_created_on>2024-03-22 11:59:03</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5579cb5e9709c610e7dbbd0de053afe5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Push</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sysevent_email_action_5579cb5e9709c610e7dbbd0de053afe5</sys_update_name>
+        <sys_updated_by>Clas</sys_updated_by>
+        <sys_updated_on>2024-03-22 11:59:03</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Library Application">a680020d97010210e7dbbd0de053af64</application>
+        <file_path/>
+        <instance_id>5f2e1938dbbeb59038f11729139619f4</instance_id>
+        <instance_name>dev226011</instance_name>
+        <name>sysevent_email_action_5579cb5e9709c610e7dbbd0de053afe5</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="sysevent_email_action"&gt;&lt;sysevent_email_action action="INSERT_OR_UPDATE"&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced_condition/&gt;&lt;affected_field_on_event/&gt;&lt;category display_value="Uncategorized" name="Uncategorized"&gt;c97d83137f4432005f58108c3ffa917a&lt;/category&gt;&lt;collection&gt;kb_feedback&lt;/collection&gt;&lt;condition/&gt;&lt;content_type&gt;text/html&lt;/content_type&gt;&lt;default_interval/&gt;&lt;description/&gt;&lt;digest_from/&gt;&lt;digest_html/&gt;&lt;digest_reply_to/&gt;&lt;digest_separator_html&gt;&lt;![CDATA[&lt;br&gt;&lt;hr&gt;&lt;br&gt;]]&gt;&lt;/digest_separator_html&gt;&lt;digest_separator_text&gt;&lt;![CDATA[\n--------------------------------------------------------------------------------\n]]&gt;&lt;/digest_separator_text&gt;&lt;digest_subject/&gt;&lt;digest_template/&gt;&lt;digest_text/&gt;&lt;digestable&gt;false&lt;/digestable&gt;&lt;enable_dynamic_translation&gt;false&lt;/enable_dynamic_translation&gt;&lt;event_name/&gt;&lt;event_parm_1&gt;false&lt;/event_parm_1&gt;&lt;event_parm_2&gt;false&lt;/event_parm_2&gt;&lt;exclude_delegates&gt;false&lt;/exclude_delegates&gt;&lt;force_delivery&gt;false&lt;/force_delivery&gt;&lt;from/&gt;&lt;generation_type&gt;engine&lt;/generation_type&gt;&lt;importance/&gt;&lt;include_attachments&gt;false&lt;/include_attachments&gt;&lt;item&gt;event.parm1&lt;/item&gt;&lt;item_table/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;message/&gt;&lt;message_html/&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;messaging_channels/&gt;&lt;messaging_content/&gt;&lt;name&gt;Test Push&lt;/name&gt;&lt;omit_watermark&gt;false&lt;/omit_watermark&gt;&lt;order&gt;100&lt;/order&gt;&lt;push_message_only&gt;true&lt;/push_message_only&gt;&lt;recipient_fields/&gt;&lt;recipient_groups/&gt;&lt;recipient_users&gt;7d825ac597c10210e7dbbd0de053afc4,9df74b0c97850210e7dbbd0de053af70,cc88438097c50210e7dbbd0de053af38,3748070097c50210e7dbbd0de053af7a&lt;/recipient_users&gt;&lt;reply_to/&gt;&lt;send_self&gt;true&lt;/send_self&gt;&lt;sms_alternate/&gt;&lt;style/&gt;&lt;subject/&gt;&lt;subscribable&gt;false&lt;/subscribable&gt;&lt;sys_class_name&gt;sysevent_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Clas&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-03-22 11:59:03&lt;/sys_created_on&gt;&lt;sys_domain&gt;09ff3d105f231000b12e3572f2b4775d&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;5579cb5e9709c610e7dbbd0de053afe5&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Test Push&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Library Application" source="x_1342778_library"&gt;a680020d97010210e7dbbd0de053af64&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Library Application"&gt;a680020d97010210e7dbbd0de053af64&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_action_5579cb5e9709c610e7dbbd0de053afe5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Clas&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-03-22 11:59:03&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;template/&gt;&lt;type&gt;email&lt;/type&gt;&lt;weight&gt;0&lt;/weight&gt;&lt;/sysevent_email_action&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2022055470</payload_hash>
+        <record_name>Test Push</record_name>
+        <reverted_from/>
+        <source>4482f21a9785c610e7dbbd0de053af4a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Clas</sys_created_by>
+        <sys_created_on>2024-03-22 11:59:03</sys_created_on>
+        <sys_id>63e9839e9709c610e7dbbd0de053afed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e660761d30000001</sys_recorded_at>
+        <sys_updated_by>Clas</sys_updated_by>
+        <sys_updated_on>2024-03-22 11:59:03</sys_updated_on>
+        <type>Notification</type>
+        <update_guid>67e9839e7609c6102fcec42ec440ccec</update_guid>
+        <update_guid_history>67e9839e7609c6102fcec42ec440ccec:-2022055470</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Clas</sys_created_by>
+        <sys_created_on>2024-03-22 12:07:47</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_email_action">sysevent_email_action</sys_db_object>
+        <sys_id>276a6f5a271446a09a4a07ff36e04ee4</sys_id>
+        <sys_metadata>5579cb5e9709c610e7dbbd0de053afe5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Push</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_parent display_value="Kb Feedback">9d2830b97db1311076daf29f52070d35</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_scope_delete display_value="">24f5bd0c63804281887d4a30a154c0d1</sys_scope_delete>
+        <sys_update_name>sysevent_email_action_5579cb5e9709c610e7dbbd0de053afe5</sys_update_name>
+        <sys_update_version display_value="sysevent_email_action_5579cb5e9709c610e7dbbd0de053afe5">63e9839e9709c610e7dbbd0de053afed</sys_update_version>
+        <sys_updated_by>Clas</sys_updated_by>
+        <sys_updated_on>2024-03-22 12:07:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

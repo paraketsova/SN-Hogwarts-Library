@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="author_last_name" label="Author last  name" language="en" table="x_1342778_library_author">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>author_last_name</element>
+            <help/>
+            <hint/>
+            <label>Author last  name</label>
+            <language>en</language>
+            <name>x_1342778_library_author</name>
+            <plural>Author last  names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Maria</sys_created_by>
+            <sys_created_on>2024-03-18 12:34:58</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Author last  name</sys_name>
+            <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+            <sys_update_name>sys_documentation_x_1342778_library_author_author_last_name_en</sys_update_name>
+            <sys_updated_by>Maria</sys_updated_by>
+            <sys_updated_on>2024-03-18 12:34:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type" table="x_1342778_library_book" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <name>x_1342778_library_book</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 10:24:54</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type</sys_name>
+            <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+            <sys_update_name>sys_choice_x_1342778_library_book_type</sys_update_name>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 10:24:54</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Encyclopedia</label>
+            <language>en</language>
+            <name>x_1342778_library_book</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 10:24:54</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path/>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 10:24:54</sys_updated_on>
+            <value>encyclopedia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Handbook</label>
+            <language>en</language>
+            <name>x_1342778_library_book</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 10:24:54</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path/>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 10:24:54</sys_updated_on>
+            <value>handbook</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Monograph</label>
+            <language>en</language>
+            <name>x_1342778_library_book</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 10:24:54</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path/>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 10:24:54</sys_updated_on>
+            <value>monograph</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Proceedings</label>
+            <language>en</language>
+            <name>x_1342778_library_book</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 10:24:54</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path/>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 10:24:54</sys_updated_on>
+            <value>proceedings</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reference</label>
+            <language>en</language>
+            <name>x_1342778_library_book</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 10:24:54</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path/>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 10:24:54</sys_updated_on>
+            <value>reference</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Textbook</label>
+            <language>en</language>
+            <name>x_1342778_library_book</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 10:24:54</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path/>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 10:24:54</sys_updated_on>
+            <value>textbook</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Thesis</label>
+            <language>en</language>
+            <name>x_1342778_library_book</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 10:24:54</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path/>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 10:24:54</sys_updated_on>
+            <value>thesis</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

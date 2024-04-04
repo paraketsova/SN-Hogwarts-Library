@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,viewActivatedIn=naturalLanguage</attributes>
+        <authored_on_release_version>25000</authored_on_release_version>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Book out process for Hogwarts Library</description>
+        <flow_priority>MEDIUM</flow_priority>
+        <generation_source/>
+        <internal_name>library_book_out</internal_name>
+        <label_cache>[{"name":"Service Catalog_1.request_item","label":"Trigger - Service Catalog➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","usedInstances":{},"attributes":{"default_search_field":"number"}}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>library_book_out</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 09:21:31</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path/>
+        <sys_id>ae194b5d974d4210e7dbbd0de053af04</sys_id>
+        <sys_mod_count>38</sys_mod_count>
+        <sys_name>library_book_out</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sys_hub_flow_ae194b5d974d4210e7dbbd0de053af04</sys_update_name>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 14:31:33</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=ae194b5d974d4210e7dbbd0de053af04"/>
+    <sys_variable_value action="delete_multiple" query="document_key=ae194b5d974d4210e7dbbd0de053af04"/>
+    <sys_hub_trigger_instance action="delete_multiple" query="flow=ae194b5d974d4210e7dbbd0de053af04^sys_idNOT IN45f648ed97c18210e7dbbd0de053afe0"/>
+    <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="library_book_out">ae194b5d974d4210e7dbbd0de053af04</flow>
+        <name>Created or Updated</name>
+        <remote_sys_id/>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 13:51:45</sys_created_on>
+        <sys_id>45f648ed97c18210e7dbbd0de053afe0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 14:31:32</sys_updated_on>
+        <trigger_definition display_value="Created or Updated">a45d9180c32222002841b63b12d3aea7</trigger_definition>
+        <trigger_inputs/>
+        <trigger_outputs/>
+        <trigger_type>record_create_or_update</trigger_type>
+    </sys_hub_trigger_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=45f648ed97c18210e7dbbd0de053afe0"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>45f648ed97c18210e7dbbd0de053afe0</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 13:51:45</sys_created_on>
+        <sys_id>cdf648ed97c18210e7dbbd0de053afe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 13:51:45</sys_updated_on>
+        <value>^EQ</value>
+        <variable display_value="Condition">707dd180c32222002841b63b12d3aecb</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_trigger_output_a45d9180c32222002841b63b12d3aea7^id=45f648ed97c18210e7dbbd0de053afe0"/>
+    <sys_hub_flow_stage action="delete_multiple" query="flow=ae194b5d974d4210e7dbbd0de053af04"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=ae194b5d974d4210e7dbbd0de053af04^sys_idNOT IN26194b5d974d4210e7dbbd0de053af07"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>ae194b5d974d4210e7dbbd0de053af04</id>
+        <name>library_book_out</name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 09:21:31</sys_created_on>
+        <sys_id>26194b5d974d4210e7dbbd0de053af07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 09:21:31</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=26194b5d974d4210e7dbbd0de053af07"/>
+    <sys_hub_flow_input action="delete_multiple" query="model=ae194b5d974d4210e7dbbd0de053af04^sys_idNOT INc19a975d97cd4210e7dbbd0de053afb6,c19a975d97cd4210e7dbbd0de053afd7,c59a975d97cd4210e7dbbd0de053af8c"/>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id,uiTypeLabel=Document ID</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent>table_name</dependent>
+        <dependent_on_field>table_name</dependent_on_field>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>current</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="">document_id</internal_type>
+        <label>Record</label>
+        <mandatory>true</mandatory>
+        <max_length>200</max_length>
+        <model display_value="library_book_out">ae194b5d974d4210e7dbbd0de053af04</model>
+        <model_id>ae194b5d974d4210e7dbbd0de053af04</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_ae194b5d974d4210e7dbbd0de053af04</name>
+        <next_element/>
+        <order>100</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 10:37:52</sys_created_on>
+        <sys_id>c19a975d97cd4210e7dbbd0de053afb6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 13:51:44</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>true</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=c19a975d97cd4210e7dbbd0de053afb6"/>
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDCollection</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>global</scope_name>
+        <serialized_content>{"FlowDesigner:FDCollection":{"$COCollectionField":[{"FDChangeDetails":{"previous_display_value":"String","previous_display_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Previous Display Value\",\"mandatory\":\"false\",\"order\":\"4\",\"max_length\":\"0\"}"},"previous_value":"String","previous_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Previous Value\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"current_display_value":"String","current_display_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Current Display Value\",\"mandatory\":\"false\",\"order\":\"5\",\"max_length\":\"0\"}"},"current_value":"String","current_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Current Value\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"field_name":"String","field_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Field Name\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"pwd2droppable\":\"true\",\"default_value\":\"\",\"label\":\"Changed Fields\",\"mandatory\":\"false\",\"child_name\":\"FDChangeDetails\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDCollection\",\"child_label\":\"FDChangeDetails\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"100\",\"max_length\":\"4000\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDCollection.$type_facets":{"SimpleMapFacet":"{\"pwd2droppable\":\"true\",\"default_value\":\"\",\"label\":\"Changed Fields\",\"mandatory\":\"false\",\"child_name\":\"FDChangeDetails\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDCollection\",\"child_label\":\"FDChangeDetails\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"100\",\"max_length\":\"4000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 23:19:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f4f014150f023300ecf0cc52ff767eed</sys_id>
+        <sys_mod_count>101</sys_mod_count>
+        <sys_name>FDCollection</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Flow Designer Designer Model" source="com.glide.hub.designer_backend.model">3bbab03d7df1311076daf29f52070dd8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_complex_object_f4f014150f023300ecf0cc52ff767eed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-28 05:06:11</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>child_label=FDChangeDetails,child_name=FDChangeDetails,child_type=object,child_type_label=Object,co_type_name=FDCollection,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,pwd2droppable=true,uiType=array.object,uiTypeLabel=Array.Object</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>changed_fields</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>Changed Fields</label>
+        <mandatory>false</mandatory>
+        <max_length>4000</max_length>
+        <model display_value="library_book_out">ae194b5d974d4210e7dbbd0de053af04</model>
+        <model_id>ae194b5d974d4210e7dbbd0de053af04</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_ae194b5d974d4210e7dbbd0de053af04</name>
+        <next_element/>
+        <order>100</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 10:37:52</sys_created_on>
+        <sys_id>c19a975d97cd4210e7dbbd0de053afd7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 10:37:52</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=c19a975d97cd4210e7dbbd0de053afd7"/>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>table_name</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="">table_name</internal_type>
+        <label>Table Name</label>
+        <mandatory>false</mandatory>
+        <max_length>200</max_length>
+        <model display_value="library_book_out">ae194b5d974d4210e7dbbd0de053af04</model>
+        <model_id>ae194b5d974d4210e7dbbd0de053af04</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_ae194b5d974d4210e7dbbd0de053af04</name>
+        <next_element/>
+        <order>101</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 10:37:51</sys_created_on>
+        <sys_id>c59a975d97cd4210e7dbbd0de053af8c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 13:51:45</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=c59a975d97cd4210e7dbbd0de053af8c"/>
+    <sys_hub_flow_output action="delete_multiple" query="model=ae194b5d974d4210e7dbbd0de053af04"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=ae194b5d974d4210e7dbbd0de053af04"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=ae194b5d974d4210e7dbbd0de053af04^sys_idNOT IN4c0c4bd1978d4210e7dbbd0de053af57,cd6253dd978d4210e7dbbd0de053af4a,d0aecf19978d4210e7dbbd0de053af75"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
+        <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
+        <attributes/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="library_book_out">ae194b5d974d4210e7dbbd0de053af04</flow>
+        <generation_source/>
+        <order>2</order>
+        <parent_ui_id>16df1604-c17e-41b5-ba47-10ca2f90610c</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 09:34:10</sys_created_on>
+        <sys_id>4c0c4bd1978d4210e7dbbd0de053af57</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 14:31:32</sys_updated_on>
+        <ui_id>44c2e369-448b-475e-9fde-61db2a016473</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=4c0c4bd1978d4210e7dbbd0de053af57"/>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb^id=4c0c4bd1978d4210e7dbbd0de053af57"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=4c0c4bd1978d4210e7dbbd0de053af57"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=4c0c4bd1978d4210e7dbbd0de053af57"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Wait For Condition">89ce8a4187120010663ca1bb36cb0be3</action_type>
+        <action_type_parent display_value="Wait For Condition">8bb9a8160b10030085c083eb37673aec</action_type_parent>
+        <attributes/>
+        <comment>Librarian checks book condition</comment>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="library_book_out">ae194b5d974d4210e7dbbd0de053af04</flow>
+        <generation_source/>
+        <order>6</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 10:02:06</sys_created_on>
+        <sys_id>cd6253dd978d4210e7dbbd0de053af4a</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 14:31:33</sys_updated_on>
+        <ui_id>425d36a9-3489-45f7-bed7-77e347e1be87</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=cd6253dd978d4210e7dbbd0de053af4a"/>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_input_89ce8a4187120010663ca1bb36cb0be3^id=cd6253dd978d4210e7dbbd0de053af4a"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=cd6253dd978d4210e7dbbd0de053af4a"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=cd6253dd978d4210e7dbbd0de053af4a"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
+        <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
+        <attributes/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="library_book_out">ae194b5d974d4210e7dbbd0de053af04</flow>
+        <generation_source/>
+        <order>5</order>
+        <parent_ui_id>6ad59889-3abb-45a3-be87-1e4cfeae6af2</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 09:45:39</sys_created_on>
+        <sys_id>d0aecf19978d4210e7dbbd0de053af75</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 14:31:32</sys_updated_on>
+        <ui_id>ad9e4732-d90c-4b77-9a69-eed0b8a2d127</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=d0aecf19978d4210e7dbbd0de053af75"/>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb^id=d0aecf19978d4210e7dbbd0de053af75"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=d0aecf19978d4210e7dbbd0de053af75"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=d0aecf19978d4210e7dbbd0de053af75"/>
+    <sys_hub_sub_flow_instance action="delete_multiple" query="flow=ae194b5d974d4210e7dbbd0de053af04"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=ae194b5d974d4210e7dbbd0de053af04^sys_idNOT IN27dd43d5978d4210e7dbbd0de053af0a,7e1d0755978d4210e7dbbd0de053af6f,c0101c6d97058210e7dbbd0de053af3a,d9dacb11978d4210e7dbbd0de053afc9"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">ddf688ed97c18210e7dbbd0de053af06</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="library_book_out">ae194b5d974d4210e7dbbd0de053af04</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <generation_source/>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>4</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>1e76e159-0a22-4cf3-b8ad-f64669414e27</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 09:42:20</sys_created_on>
+        <sys_id>27dd43d5978d4210e7dbbd0de053af0a</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 14:31:32</sys_updated_on>
+        <ui_id>6ad59889-3abb-45a3-be87-1e4cfeae6af2</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=27dd43d5978d4210e7dbbd0de053af0a"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>27dd43d5978d4210e7dbbd0de053af0a</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 09:45:39</sys_created_on>
+        <sys_id>50aecf19978d4210e7dbbd0de053af84</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 13:51:45</sys_updated_on>
+        <value>book.reservedBy !== current user</value>
+        <variable display_value="Condition Label">f0af19c1c32632002841b63b12d3aea3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e^id=27dd43d5978d4210e7dbbd0de053af0a"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=27dd43d5978d4210e7dbbd0de053af0a"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=27dd43d5978d4210e7dbbd0de053af0a"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">d1f688ed97c18210e7dbbd0de053af00</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="library_book_out">ae194b5d974d4210e7dbbd0de053af04</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <generation_source/>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>3</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 09:39:00</sys_created_on>
+        <sys_id>7e1d0755978d4210e7dbbd0de053af6f</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 14:31:32</sys_updated_on>
+        <ui_id>1e76e159-0a22-4cf3-b8ad-f64669414e27</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=7e1d0755978d4210e7dbbd0de053af6f"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>7e1d0755978d4210e7dbbd0de053af6f</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 09:39:11</sys_created_on>
+        <sys_id>9d2d8b55978d4210e7dbbd0de053afb3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 13:51:45</sys_updated_on>
+        <value>book.status === reserved</value>
+        <variable display_value="Condition Label">f0af19c1c32632002841b63b12d3aea3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e^id=7e1d0755978d4210e7dbbd0de053af6f"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=7e1d0755978d4210e7dbbd0de053af6f"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=7e1d0755978d4210e7dbbd0de053af6f"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">04101c6d97058210e7dbbd0de053af39</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="library_book_out">ae194b5d974d4210e7dbbd0de053af04</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <generation_source/>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>7</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 14:31:33</sys_created_on>
+        <sys_id>c0101c6d97058210e7dbbd0de053af3a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 14:31:33</sys_updated_on>
+        <ui_id>cba57f6a-4601-4714-b046-f8182b46c3f4</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=c0101c6d97058210e7dbbd0de053af3a"/>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e^id=c0101c6d97058210e7dbbd0de053af3a"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=c0101c6d97058210e7dbbd0de053af3a"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=c0101c6d97058210e7dbbd0de053af3a"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">4df648ed97c18210e7dbbd0de053afe7</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="library_book_out">ae194b5d974d4210e7dbbd0de053af04</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <generation_source/>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>1</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 09:29:05</sys_created_on>
+        <sys_id>d9dacb11978d4210e7dbbd0de053afc9</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 14:31:32</sys_updated_on>
+        <ui_id>16df1604-c17e-41b5-ba47-10ca2f90610c</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=d9dacb11978d4210e7dbbd0de053afc9"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>d9dacb11978d4210e7dbbd0de053afc9</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 09:31:09</sys_created_on>
+        <sys_id>734bcf51978d4210e7dbbd0de053affd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 13:51:45</sys_updated_on>
+        <value/>
+        <variable display_value="Condition">9a5f5105c32632002841b63b12d3ae46</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>d9dacb11978d4210e7dbbd0de053afc9</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 09:29:22</sys_created_on>
+        <sys_id>a5ea0351978d4210e7dbbd0de053af82</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 13:51:45</sys_updated_on>
+        <value>book.available !== true</value>
+        <variable display_value="Condition Label">f0af19c1c32632002841b63b12d3aea3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e^id=d9dacb11978d4210e7dbbd0de053afc9"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=d9dacb11978d4210e7dbbd0de053afc9"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=d9dacb11978d4210e7dbbd0de053afc9"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=ae194b5d974d4210e7dbbd0de053af04"/>
+    <sys_hub_flow_variable action="delete_multiple" query="model=ae194b5d974d4210e7dbbd0de053af04"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_ae194b5d974d4210e7dbbd0de053af04^sys_idNOT IN819a975d97cd4210e7dbbd0de053afb2,819a975d97cd4210e7dbbd0de053afdc,c99a975d97cd4210e7dbbd0de053afba"/>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>table_name</element>
+        <help/>
+        <hint/>
+        <label>Table Name</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_ae194b5d974d4210e7dbbd0de053af04</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 10:37:52</sys_created_on>
+        <sys_id>819a975d97cd4210e7dbbd0de053afb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Table Name</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_ae194b5d974d4210e7dbbd0de053af04_table_name_en</sys_update_name>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 10:37:52</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>changed_fields</element>
+        <help/>
+        <hint/>
+        <label>Changed Fields</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_ae194b5d974d4210e7dbbd0de053af04</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 10:37:52</sys_created_on>
+        <sys_id>819a975d97cd4210e7dbbd0de053afdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Changed Fields</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_ae194b5d974d4210e7dbbd0de053af04_changed_fields_en</sys_update_name>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 10:37:52</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>current</element>
+        <help/>
+        <hint/>
+        <label>Record</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_ae194b5d974d4210e7dbbd0de053af04</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-19 10:37:52</sys_created_on>
+        <sys_id>c99a975d97cd4210e7dbbd0de053afba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_ae194b5d974d4210e7dbbd0de053af04_current_en</sys_update_name>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-19 10:37:52</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_ae194b5d974d4210e7dbbd0de053af04"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_ae194b5d974d4210e7dbbd0de053af04"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_ae194b5d974d4210e7dbbd0de053af04"/>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=ae194b5d974d4210e7dbbd0de053af04"/>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=ae194b5d974d4210e7dbbd0de053af04"/>
+</record_update>

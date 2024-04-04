@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ffaba5b997c10610e7dbbd0de053af9e" extends="task" label="Reserved books" max_length="40" name="x_1342778_library_reserved_books" type="collection">
+        <element attributes="encode_utf8=false" label="Book name" max_length="32" name="book_name" reference="x_1342778_library_book" type="reference"/>
+        <element label="Due date for return" max_length="40" name="due_date_for_return" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested book" max_length="40" name="requested_book_reserved_books" type="string"/>
+        <element label="Requester" max_length="40" name="requester" type="string"/>
+        <element attributes="encode_utf8=false" label="Requestor" max_length="32" name="requestor_reserved_books" reference="sys_user" type="reference"/>
+        <element label="Reserved_book" max_length="40" name="reserved_book" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status_reserved_books" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Available" sequence="0" value="available"/>
+                <element inactive_on_update="false" label="Borrowed" sequence="1" value="borrowed"/>
+                <element inactive_on_update="false" label="Reserved" sequence="2" value="reserved"/>
+                <element inactive_on_update="false" label="On Repair" sequence="3" value="on repair"/>
+            </choice>
+        </element>
+    </element>
+</database>

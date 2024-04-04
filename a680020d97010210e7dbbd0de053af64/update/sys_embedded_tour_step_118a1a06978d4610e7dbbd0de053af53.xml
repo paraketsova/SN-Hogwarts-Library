@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="xpath">d18a1a06978d4610e7dbbd0de053af4f</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Here you can see all the different categories our books are dived into]]></content>
+        <guide display_value="Presentation of the page">98691242978d4610e7dbbd0de053affd</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name/>
+        <options>{"url":"/lib?id=index_new"}</options>
+        <order>5</order>
+        <placement>top</placement>
+        <skippable>false</skippable>
+        <step_type>step</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>Micke</sys_created_by>
+        <sys_created_on>2024-03-21 13:53:26</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path/>
+        <sys_id>118a1a06978d4610e7dbbd0de053af53</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_118a1a06978d4610e7dbbd0de053af53</sys_update_name>
+        <sys_updated_by>Micke</sys_updated_by>
+        <sys_updated_on>2024-03-21 13:53:26</sys_updated_on>
+        <target/>
+        <target_ref display_value="xpath">d18a1a06978d4610e7dbbd0de053af4f</target_ref>
+        <title/>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>lib</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=118a1a06978d4610e7dbbd0de053af53"/>
+</record_update>

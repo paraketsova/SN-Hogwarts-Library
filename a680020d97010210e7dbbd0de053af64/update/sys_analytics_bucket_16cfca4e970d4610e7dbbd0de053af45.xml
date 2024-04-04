@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_analytics_bucket">
+    <sys_analytics_bucket action="INSERT_OR_UPDATE">
+        <analytics_channel display_value="web">6496ef61c7001010393d265c95c260b9</analytics_channel>
+        <application_name>Hogwart's library portal</application_name>
+        <bucket_document_id>0d630b4197090210e7dbbd0de053afa0</bucket_document_id>
+        <bucket_metadata/>
+        <bucket_table_name>sp_portal</bucket_table_name>
+        <bucket_type>service_portal</bucket_type>
+        <enable_unauthenticated_user_tracking>false</enable_unauthenticated_user_tracking>
+        <enabled>true</enabled>
+        <internal_name_for_index>x_1342778_library.sp_portal.0d630b4197090210e7dbbd0de053afa0</internal_name_for_index>
+        <sys_class_name>sys_analytics_bucket</sys_class_name>
+        <sys_created_by>Micke</sys_created_by>
+        <sys_created_on>2024-03-21 13:06:31</sys_created_on>
+        <sys_id>16cfca4e970d4610e7dbbd0de053af45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hogwart's library portal</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sys_analytics_bucket_16cfca4e970d4610e7dbbd0de053af45</sys_update_name>
+        <sys_updated_by>Micke</sys_updated_by>
+        <sys_updated_on>2024-03-21 13:06:31</sys_updated_on>
+    </sys_analytics_bucket>
+</record_update>

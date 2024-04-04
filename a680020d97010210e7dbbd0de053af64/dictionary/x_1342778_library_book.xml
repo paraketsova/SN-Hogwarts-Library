@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a40e820197c10210e7dbbd0de053afbf" label="Book" max_length="40" name="x_1342778_library_book" type="collection">
+        <element attributes="edge_encryption_enabled=true" calculation="(function calculatedFieldValue(current) {&#10;&#10;&#9;// Add your code here&#10;&#9;return (author_name + author_last_name);  // return the calculated value&#10;&#10;})(current);" label="Author" max_length="40" name="author" reference="x_1342778_library_author" type="reference"/>
+        <element label="Available" max_length="40" name="available" type="boolean"/>
+        <element attributes="encode_utf8=false" label="Borrowed By" max_length="32" name="borrowed_by" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Condition" max_length="40" name="condition" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1 - As New" value="1"/>
+                <element inactive_on_update="false" label="2 - Fine" value="2"/>
+                <element inactive_on_update="false" label="3 - Good" value="3"/>
+                <element inactive_on_update="false" label="4 - Fair" value="4"/>
+                <element inactive_on_update="false" label="5- Broken" value="5"/>
+            </choice>
+        </element>
+        <element label="Copies" max_length="40" name="copies" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Edition" max_length="40" name="edition" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="First Edition" value="1"/>
+                <element inactive_on_update="false" label="Second Edition" value="2"/>
+                <element inactive_on_update="false" label="Third Edition" value="3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Format" max_length="40" name="format" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Book" value="book"/>
+                <element inactive_on_update="false" label="E-Book" value="e_book"/>
+            </choice>
+        </element>
+        <element label="ISBN" max_length="20" name="isbn" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Language" max_length="40" name="language" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="English" value="english"/>
+                <element inactive_on_update="false" label="Swedish" value="swedish"/>
+                <element inactive_on_update="false" label="Ukranian" value="ukrainan"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="PEGI" max_length="40" name="pegi" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="12" value="12"/>
+                <element inactive_on_update="false" label="16" value="16"/>
+                <element inactive_on_update="false" label="3" value="3"/>
+                <element inactive_on_update="false" label="7" value="7"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Reserved By" max_length="32" name="reserved_by" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Available" value="available"/>
+                <element inactive_on_update="false" label="Missing" value="missing"/>
+                <element inactive_on_update="false" label="Not- Available" value="not_available"/>
+                <element inactive_on_update="false" label="On Repair" value="on_repair"/>
+                <element inactive_on_update="false" label="Reserved" value="reserved"/>
+            </choice>
+        </element>
+        <element choice="1" label="Subject" max_length="40" name="subject" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Herbology" value="Herbology"/>
+                <element inactive_on_update="false" label="Care of Magical Creatures" sequence="0" value="Care of Magical Creatures"/>
+                <element inactive="true" inactive_on_update="true" label="Herbology" sequence="0" value="Herbology"/>
+                <element inactive_on_update="false" label="Defence Against the Dark Arts" sequence="1" value="Defence Against the Dark Arts"/>
+                <element inactive_on_update="false" label="Divination" sequence="2" value="Divination"/>
+                <element inactive_on_update="false" label="Flying" sequence="3" value="Flying"/>
+                <element inactive_on_update="false" label="History of magic" sequence="5" value="History of magic"/>
+                <element inactive_on_update="false" label="Muggle Studies" sequence="6" value="Muggle Studies"/>
+                <element inactive_on_update="false" label="Potions" sequence="7" value="Potions"/>
+                <element inactive_on_update="false" label="Quiddich" sequence="8" value="Quiddich"/>
+                <element inactive_on_update="false" label="Transfiguration" sequence="9" value="Transfiguration"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" max_length="200" name="title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Encyclopedia" value="encyclopedia"/>
+                <element inactive_on_update="false" label="Handbook" value="handbook"/>
+                <element inactive_on_update="false" label="Monograph" value="monograph"/>
+                <element inactive_on_update="false" label="Proceedings" value="proceedings"/>
+                <element inactive_on_update="false" label="Reference" value="reference"/>
+                <element inactive_on_update="false" label="Textbook" value="textbook"/>
+                <element inactive_on_update="false" label="Thesis" value="thesis"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="New Reference" max_length="32" name="u_reference_1" reference="cmdb_multisource_deny_class" type="reference"/>
+        <element attributes="encode_utf8=false" dependent="u_reference_3" dependent_on_field="u_reference_3" label="Author first name" max_length="32" name="u_reference_2" reference="x_1342778_library_author" type="reference" use_dependent_field="true"/>
+        <element attributes="encode_utf8=false" dependent="u_reference_3" dependent_on_field="u_reference_3" label="Auth_first_name" max_length="32" name="u_reference_3" reference="x_1342778_library_author" type="reference" use_dependent_field="true"/>
+        <index name="index">
+            <element name="author"/>
+        </index>
+        <index name="index2">
+            <element name="borrowed_by"/>
+        </index>
+        <index name="index3">
+            <element name="reserved_by"/>
+        </index>
+        <index name="index4">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index5">
+            <element name="u_reference_1"/>
+        </index>
+        <index name="index6">
+            <element name="u_reference_2"/>
+        </index>
+        <index name="index7">
+            <element name="u_reference_3"/>
+        </index>
+    </element>
+</database>

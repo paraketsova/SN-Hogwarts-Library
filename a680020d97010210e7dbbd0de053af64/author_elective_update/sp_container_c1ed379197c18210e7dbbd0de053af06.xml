@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>true</bootstrap_alt>
+        <class_name>hidden-xs</class_name>
+        <container_class_name/>
+        <name>Hogwarts Homepage - Container 1</name>
+        <order>1</order>
+        <semantic_tag>main</semantic_tag>
+        <sp_page display_value="index_new">09ed379197c18210e7dbbd0de053af01</sp_page>
+        <subheader>true</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>Micke</sys_created_by>
+        <sys_created_on>2024-03-19 13:12:09</sys_created_on>
+        <sys_id>c1ed379197c18210e7dbbd0de053af06</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Hogwarts Homepage - Container 1</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sp_container_c1ed379197c18210e7dbbd0de053af06</sys_update_name>
+        <sys_updated_by>Micke</sys_updated_by>
+        <sys_updated_on>2024-03-22 09:56:43</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Library Application">a680020d97010210e7dbbd0de053af64</application>
+        <file_path/>
+        <instance_id>5f2e1938dbbeb59038f11729139619f4</instance_id>
+        <instance_name>dev226011</instance_name>
+        <name>sp_container_c1ed379197c18210e7dbbd0de053af06</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>true</bootstrap_alt><class_name>hidden-xs</class_name><container_class_name/><name>Hogwarts Homepage - Container 1</name><order>1</order><semantic_tag>main</semantic_tag><sp_page display_value="index_new">09ed379197c18210e7dbbd0de053af01</sp_page><subheader>true</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>Micke</sys_created_by><sys_created_on>2024-03-19 13:12:09</sys_created_on><sys_id>c1ed379197c18210e7dbbd0de053af06</sys_id><sys_mod_count>12</sys_mod_count><sys_name>Hogwarts Homepage - Container 1</sys_name><sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package><sys_policy/><sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope><sys_update_name>sp_container_c1ed379197c18210e7dbbd0de053af06</sys_update_name><sys_updated_by>Micke</sys_updated_by><sys_updated_on>2024-03-22 09:56:43</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>137984304</payload_hash>
+        <record_name>Hogwarts Homepage - Container 1</record_name>
+        <reverted_from/>
+        <source>118baace97cd4610e7dbbd0de053af8f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-22 10:14:49</sys_created_on>
+        <sys_id>a81232d69785c610e7dbbd0de053af45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e65a7f2ea0000001</sys_recorded_at>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-22 10:14:49</sys_updated_on>
+        <type>Container</type>
+        <update_guid>27edae5e7c45c61002606dfe3ec8a2d1</update_guid>
+        <update_guid_history>27edae5e7c45c61002606dfe3ec8a2d1:137984304,ac02fa966985c6108a9f155faa7b5ed9:-2140410220,27edae5e7c45c61002606dfe3ec8a2d1:137984304,cfedaa5ecb45c610df8440d14f0804e3:1156286507,59dd2e5e8a45c61084e74c1e91f88102:-888829644,c9ddea5e3745c6102d093b4663b545fb:-1449137805,fa4aead66945c610580fd4d649fbd226:137984304,9a4a6ed69645c610a4bcef045136585f:-2139650340,f4adda4a888d46106a250abbe5826228:-777568235,886dde0adc8d4610d7676beee96196f0:-906794760,d3ca390a3489461014f72376f941ab3b:-777568235,27aa750aa1894610cb5dbfbab9812b43:-120873311,279af10a87894610acfde48a85d363b4:-315525763,199ab10a4f894610ceb43cb2716bd53e:-532585776,ef2af98684894610195d3b65813be24c:1828113385,f92ab1c63e8946100de15dd01b81f906:-1146060457,e12a71c60c894610a6e75cc907c76cd9:-98617753,420e3b91b2c1821053a60b65fd9d17cf:1065278038,c5ed37915ac1821081d1ea5409b96a0b:615828086</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">f70407569709c610e7dbbd0de053af8c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Micke</sys_created_by>
+        <sys_created_on>2024-03-22 11:33:25</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>3173a76baaa341f0994d07f15d461b51</sys_id>
+        <sys_metadata>c1ed379197c18210e7dbbd0de053af06</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hogwarts Homepage - Container 1</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_scope_delete display_value="">24f5bd0c63804281887d4a30a154c0d1</sys_scope_delete>
+        <sys_update_name>sp_container_c1ed379197c18210e7dbbd0de053af06</sys_update_name>
+        <sys_update_version display_value="sp_container_c1ed379197c18210e7dbbd0de053af06">a81232d69785c610e7dbbd0de053af45</sys_update_version>
+        <sys_updated_by>Micke</sys_updated_by>
+        <sys_updated_on>2024-03-22 11:33:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

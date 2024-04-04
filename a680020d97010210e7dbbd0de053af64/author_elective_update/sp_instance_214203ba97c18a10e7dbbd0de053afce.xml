@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id>library-header</id>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">8fdeca9a9781c610e7dbbd0de053afe3</sp_column>
+        <sp_widget display_value="Stock Header">bf5ec2f2cb10120000f8d856634c9c0c</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-24 00:42:34</sys_created_on>
+        <sys_id>214203ba97c18a10e7dbbd0de053afce</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sp_instance_214203ba97c18a10e7dbbd0de053afce</sys_update_name>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-24 00:43:23</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=214203ba97c18a10e7dbbd0de053afce"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Library Application">a680020d97010210e7dbbd0de053af64</application>
+        <file_path/>
+        <instance_id>5f2e1938dbbeb59038f11729139619f4</instance_id>
+        <instance_name>dev226011</instance_name>
+        <name>sp_instance_214203ba97c18a10e7dbbd0de053afce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id>library-header</id><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">8fdeca9a9781c610e7dbbd0de053afe3</sp_column><sp_widget display_value="Stock Header">bf5ec2f2cb10120000f8d856634c9c0c</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>Maria</sys_created_by><sys_created_on>2024-03-24 00:42:34</sys_created_on><sys_id>214203ba97c18a10e7dbbd0de053afce</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package><sys_policy/><sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope><sys_update_name>sp_instance_214203ba97c18a10e7dbbd0de053afce</sys_update_name><sys_updated_by>Maria</sys_updated_by><sys_updated_on>2024-03-24 00:43:23</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=214203ba97c18a10e7dbbd0de053afce"/></record_update>]]></payload>
+        <payload_hash>-213796592</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>4482f21a9785c610e7dbbd0de053af4a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-24 00:43:23</sys_created_on>
+        <sys_id>6172c73e97058a10e7dbbd0de053af0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e6de981700000001</sys_recorded_at>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-24 00:43:23</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>2572c73ef0058a105fd067bcad07510d</update_guid>
+        <update_guid_history>2572c73ef0058a105fd067bcad07510d:-213796592,a142833ed7058a101c219628a30d9587:-1915740268</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">0c43c77e97058a10e7dbbd0de053aff8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Maria</sys_created_by>
+        <sys_created_on>2024-03-24 00:46:50</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>e165dc42fe37476fa546e245c3a39d31</sys_id>
+        <sys_metadata>214203ba97c18a10e7dbbd0de053afce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_scope_delete display_value="">24f5bd0c63804281887d4a30a154c0d1</sys_scope_delete>
+        <sys_update_name>sp_instance_214203ba97c18a10e7dbbd0de053afce</sys_update_name>
+        <sys_update_version display_value="sp_instance_214203ba97c18a10e7dbbd0de053afce">6172c73e97058a10e7dbbd0de053af0e</sys_update_version>
+        <sys_updated_by>Maria</sys_updated_by>
+        <sys_updated_on>2024-03-24 00:46:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="9f2b7ac197c50210e7dbbd0de053afab" sys_domain="09ff3d105f231000b12e3572f2b4775d" table="sp_portal" version="3" view="library">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>0</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>bb4bbec197c50210e7dbbd0de053af33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>url_suffix</element>
+            <position>1</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>734bbec197c50210e7dbbd0de053af34</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>2</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>3b4bbec197c50210e7dbbd0de053af34</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>homepage</element>
+            <position>3</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>ff4bbec197c50210e7dbbd0de053af34</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kb_knowledge_base</element>
+            <position>4</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>b74bbec197c50210e7dbbd0de053af35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kb_knowledge_page</element>
+            <position>5</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>7f4bbec197c50210e7dbbd0de053af35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>login_page</element>
+            <position>6</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>374bbec197c50210e7dbbd0de053af36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>enable_certificate_based_authentication</element>
+            <position>7</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>fb4bbec197c50210e7dbbd0de053af36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>logo</element>
+            <position>8</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>b34bbec197c50210e7dbbd0de053af37</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>icon</element>
+            <position>9</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>7b4bbec197c50210e7dbbd0de053af37</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>334bbec197c50210e7dbbd0de053af38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_scope</element>
+            <position>11</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>f74bbec197c50210e7dbbd0de053af38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notfound_page</element>
+            <position>12</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>bf4bbec197c50210e7dbbd0de053af38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sc_catalog</element>
+            <position>13</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>774bbec197c50210e7dbbd0de053af39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sc_catalog_page</element>
+            <position>14</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>3f4bbec197c50210e7dbbd0de053af39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sc_category_page</element>
+            <position>15</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>f34bbec197c50210e7dbbd0de053af3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sp_rectangle_menu</element>
+            <position>16</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>bb4bbec197c50210e7dbbd0de053af3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>theme</element>
+            <position>17</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>734bbec197c50210e7dbbd0de053af3b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dark_theme</element>
+            <position>18</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>3b4bbec197c50210e7dbbd0de053af3b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>19</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>ff4bbec197c50210e7dbbd0de053af3b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quick_start_config</element>
+            <position>20</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>b74bbec197c50210e7dbbd0de053af3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>css_variables</element>
+            <position>21</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>7f4bbec197c50210e7dbbd0de053af3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hide_portal_name</element>
+            <position>22</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>374bbec197c50210e7dbbd0de053af3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rtl_enabled</element>
+            <position>23</position>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:46</sys_created_on>
+            <sys_id>fb4bbec197c50210e7dbbd0de053af3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_portal" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="5f2bb2c197c50210e7dbbd0de053afe1">9f2b7ac197c50210e7dbbd0de053afab</sys_ui_section>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sp_portal</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Clas</sys_created_by>
+            <sys_created_on>2024-03-18 13:42:11</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path/>
+            <sys_id>9f2b7ac197c50210e7dbbd0de053afab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sp_portal</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+            <sys_update_name>sys_ui_section_9f2b7ac197c50210e7dbbd0de053afab</sys_update_name>
+            <sys_updated_by>Clas</sys_updated_by>
+            <sys_updated_on>2024-03-18 13:42:11</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="library" name="library">5f2bb2c197c50210e7dbbd0de053afe1</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2024-04-04 18:13:26">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>Helena</sys_created_by>
+        <sys_created_on>2024-03-22 12:46:30</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path/>
+        <sys_id>eec4979e9749c610e7dbbd0de053afb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sys_portal_page_eec4979e9749c610e7dbbd0de053afb9</sys_update_name>
+        <sys_updated_by>Helena</sys_updated_by>
+        <sys_updated_on>2024-03-22 12:46:30</sys_updated_on>
+        <title>New Tab 1</title>
+        <user/>
+        <view>new_tab_1_1</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="New Tab 1">eec4979e9749c610e7dbbd0de053afb9</page>
+                <summary>Reserved books</summary>
+                <sys_created_by>Helena</sys_created_by>
+                <sys_created_on>2024-03-22 13:00:36</sys_created_on>
+                <sys_id>11089b929789c610e7dbbd0de053af9c</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Helena</sys_updated_by>
+                <sys_updated_on>2024-03-22 13:04:24</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-03-22 06:00:36">11089b929789c610e7dbbd0de053af9c</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 13:00:36</sys_created_on>
+                        <sys_id>11089b929789c610e7dbbd0de053af9e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 13:00:36</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-03-22 06:00:36">11089b929789c610e7dbbd0de053af9c</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 13:00:36</sys_created_on>
+                        <sys_id>5d089b929789c610e7dbbd0de053af9d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 13:00:36</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-03-22 06:00:36">11089b929789c610e7dbbd0de053af9c</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 13:00:36</sys_created_on>
+                        <sys_id>95089b929789c610e7dbbd0de053af9e</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 13:04:24</sys_updated_on>
+                        <value>Reserved books</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-03-22 06:00:36">11089b929789c610e7dbbd0de053af9c</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 13:00:36</sys_created_on>
+                        <sys_id>99089b929789c610e7dbbd0de053af9c</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 13:04:24</sys_updated_on>
+                        <value>30e8dfd29789c610e7dbbd0de053af42</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-03-22 06:00:36">11089b929789c610e7dbbd0de053af9c</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 13:00:36</sys_created_on>
+                        <sys_id>d1089b929789c610e7dbbd0de053af9e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 13:00:36</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="New Tab 1">eec4979e9749c610e7dbbd0de053afb9</page>
+                <summary>Most popular books</summary>
+                <sys_created_by>Helena</sys_created_by>
+                <sys_created_on>2024-03-22 13:45:36</sys_created_on>
+                <sys_id>18522f9297c9c610e7dbbd0de053afbe</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>Helena</sys_updated_by>
+                <sys_updated_on>2024-03-22 13:45:36</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-03-22 06:45:36">18522f9297c9c610e7dbbd0de053afbe</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 13:45:36</sys_created_on>
+                        <sys_id>1c522f9297c9c610e7dbbd0de053afc0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 13:45:36</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2024-03-22 06:45:36">18522f9297c9c610e7dbbd0de053afbe</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 13:45:36</sys_created_on>
+                        <sys_id>58522f9297c9c610e7dbbd0de053afc0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 13:45:36</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-03-22 06:45:36">18522f9297c9c610e7dbbd0de053afbe</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 13:45:36</sys_created_on>
+                        <sys_id>90522f9297c9c610e7dbbd0de053afbf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 13:45:36</sys_updated_on>
+                        <value>d57e131e9789c610e7dbbd0de053af27</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-03-22 06:45:36">18522f9297c9c610e7dbbd0de053afbe</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 13:45:36</sys_created_on>
+                        <sys_id>90522f9297c9c610e7dbbd0de053afc1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 13:45:36</sys_updated_on>
+                        <value>Most popular books</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-03-22 06:45:36">18522f9297c9c610e7dbbd0de053afbe</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 13:45:36</sys_created_on>
+                        <sys_id>94522f9297c9c610e7dbbd0de053afc0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 13:45:36</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-03-22 06:45:36">18522f9297c9c610e7dbbd0de053afbe</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 13:45:36</sys_created_on>
+                        <sys_id>d0522f9297c9c610e7dbbd0de053afc0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 13:45:36</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2024-03-22 06:45:36">18522f9297c9c610e7dbbd0de053afbe</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 13:45:36</sys_created_on>
+                        <sys_id>d452e3d297c9c610e7dbbd0de053af51</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 13:45:36</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2024-03-22 06:45:36">18522f9297c9c610e7dbbd0de053afbe</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 13:45:36</sys_created_on>
+                        <sys_id>dc522f9297c9c610e7dbbd0de053afc0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 13:45:36</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="New Tab 1">eec4979e9749c610e7dbbd0de053afb9</page>
+                <summary>Most frequent requestor</summary>
+                <sys_created_by>Helena</sys_created_by>
+                <sys_created_on>2024-03-22 14:00:17</sys_created_on>
+                <sys_id>2ba5a31a97c9c610e7dbbd0de053afcd</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Helena</sys_updated_by>
+                <sys_updated_on>2024-03-22 14:15:47</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-03-22 07:00:17">2ba5a31a97c9c610e7dbbd0de053afcd</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 14:00:17</sys_created_on>
+                        <sys_id>2ba5a31a97c9c610e7dbbd0de053afcf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 14:00:17</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-03-22 07:00:17">2ba5a31a97c9c610e7dbbd0de053afcd</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 14:00:17</sys_created_on>
+                        <sys_id>67a5a31a97c9c610e7dbbd0de053afcf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 14:00:17</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-03-22 07:00:17">2ba5a31a97c9c610e7dbbd0de053afcd</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 14:00:17</sys_created_on>
+                        <sys_id>a3a5a31a97c9c610e7dbbd0de053afce</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 14:15:47</sys_updated_on>
+                        <value>16396f9e97c9c610e7dbbd0de053af97</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-03-22 07:00:17">2ba5a31a97c9c610e7dbbd0de053afcd</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 14:00:17</sys_created_on>
+                        <sys_id>afa5a31a97c9c610e7dbbd0de053afcf</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 14:15:47</sys_updated_on>
+                        <value>Most frequent requestor</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-03-22 07:00:17">2ba5a31a97c9c610e7dbbd0de053afcd</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 14:00:17</sys_created_on>
+                        <sys_id>eba5a31a97c9c610e7dbbd0de053afcf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 14:00:17</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="New Tab 1">eec4979e9749c610e7dbbd0de053afb9</page>
+                <summary>Book Condition</summary>
+                <sys_created_by>Helena</sys_created_by>
+                <sys_created_on>2024-03-22 14:31:21</sys_created_on>
+                <sys_id>62cca716970dc610e7dbbd0de053af3b</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Helena</sys_updated_by>
+                <sys_updated_on>2024-03-22 14:45:14</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-03-22 07:31:21">62cca716970dc610e7dbbd0de053af3b</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 14:31:21</sys_created_on>
+                        <sys_id>26cca716970dc610e7dbbd0de053af3d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 14:31:21</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-03-22 07:31:21">62cca716970dc610e7dbbd0de053af3b</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 14:31:21</sys_created_on>
+                        <sys_id>62cca716970dc610e7dbbd0de053af3d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 14:31:21</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-03-22 07:31:21">62cca716970dc610e7dbbd0de053af3b</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 14:31:21</sys_created_on>
+                        <sys_id>aecca716970dc610e7dbbd0de053af3c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 14:31:21</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-03-22 07:31:21">62cca716970dc610e7dbbd0de053af3b</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 14:31:21</sys_created_on>
+                        <sys_id>e6cca716970dc610e7dbbd0de053af3d</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 14:45:14</sys_updated_on>
+                        <value>Book Condition</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-03-22 07:31:21">62cca716970dc610e7dbbd0de053af3b</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 14:31:21</sys_created_on>
+                        <sys_id>eacca716970dc610e7dbbd0de053af3b</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 14:45:14</sys_updated_on>
+                        <value>39ff2f5a970dc610e7dbbd0de053af53</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="New Tab 1">eec4979e9749c610e7dbbd0de053afb9</page>
+                <summary>Reserved books</summary>
+                <sys_created_by>Helena</sys_created_by>
+                <sys_created_on>2024-03-22 16:01:33</sys_created_on>
+                <sys_id>b361c466978dc610e7dbbd0de053af2c</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Helena</sys_updated_by>
+                <sys_updated_on>2024-03-22 16:02:25</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2024-03-22 09:01:33">b361c466978dc610e7dbbd0de053af2c</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:04:36</sys_created_on>
+                        <sys_id>202208a6978dc610e7dbbd0de053afa3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:04:36</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2024-03-22 09:01:33">b361c466978dc610e7dbbd0de053af2c</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:04:36</sys_created_on>
+                        <sys_id>202208a6978dc610e7dbbd0de053afa4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:04:36</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2024-03-22 09:01:33">b361c466978dc610e7dbbd0de053af2c</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:04:36</sys_created_on>
+                        <sys_id>242208a6978dc610e7dbbd0de053afa3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:04:36</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2024-03-22 09:01:33">b361c466978dc610e7dbbd0de053af2c</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:04:36</sys_created_on>
+                        <sys_id>242208a6978dc610e7dbbd0de053afa4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:04:36</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2024-03-22 09:01:33">b361c466978dc610e7dbbd0de053af2c</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:04:36</sys_created_on>
+                        <sys_id>282208a6978dc610e7dbbd0de053afa3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:04:36</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2024-03-22 09:01:33">b361c466978dc610e7dbbd0de053af2c</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:04:36</sys_created_on>
+                        <sys_id>282208a6978dc610e7dbbd0de053afa4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:04:36</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2024-03-22 09:01:33">b361c466978dc610e7dbbd0de053af2c</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:04:36</sys_created_on>
+                        <sys_id>2c2208a6978dc610e7dbbd0de053afa2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:04:36</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2024-03-22 09:01:33">b361c466978dc610e7dbbd0de053af2c</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:04:36</sys_created_on>
+                        <sys_id>2c2208a6978dc610e7dbbd0de053afa3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:04:36</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-03-22 09:01:33">b361c466978dc610e7dbbd0de053af2c</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:01:33</sys_created_on>
+                        <sys_id>3b61c466978dc610e7dbbd0de053af2e</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:02:25</sys_updated_on>
+                        <value>Reserved books</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-03-22 09:01:33">b361c466978dc610e7dbbd0de053af2c</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:01:33</sys_created_on>
+                        <sys_id>3f61c466978dc610e7dbbd0de053af2c</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:02:25</sys_updated_on>
+                        <value>9ca14c66978dc610e7dbbd0de053af9a</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-03-22 09:01:33">b361c466978dc610e7dbbd0de053af2c</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:01:33</sys_created_on>
+                        <sys_id>7761c466978dc610e7dbbd0de053af2e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:01:33</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-03-22 09:01:33">b361c466978dc610e7dbbd0de053af2c</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:01:33</sys_created_on>
+                        <sys_id>b361c466978dc610e7dbbd0de053af2e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:01:33</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-03-22 09:01:33">b361c466978dc610e7dbbd0de053af2c</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:01:33</sys_created_on>
+                        <sys_id>ff61c466978dc610e7dbbd0de053af2d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:01:33</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="New Tab 1">eec4979e9749c610e7dbbd0de053afb9</page>
+                <summary>Borrowed books</summary>
+                <sys_created_by>Helena</sys_created_by>
+                <sys_created_on>2024-03-22 15:55:49</sys_created_on>
+                <sys_id>b71044e2978dc610e7dbbd0de053af6f</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Helena</sys_updated_by>
+                <sys_updated_on>2024-03-22 15:58:25</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-03-22 08:55:49">b71044e2978dc610e7dbbd0de053af6f</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 15:55:49</sys_created_on>
+                        <sys_id>331044e2978dc610e7dbbd0de053af70</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 15:58:25</sys_updated_on>
+                        <value>71b00426978dc610e7dbbd0de053af00</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-03-22 08:55:49">b71044e2978dc610e7dbbd0de053af6f</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 15:55:49</sys_created_on>
+                        <sys_id>3f1044e2978dc610e7dbbd0de053af71</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 15:58:25</sys_updated_on>
+                        <value>Borrowed books</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-03-22 08:55:49">b71044e2978dc610e7dbbd0de053af6f</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 15:55:49</sys_created_on>
+                        <sys_id>7b1044e2978dc610e7dbbd0de053af71</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 15:55:49</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-03-22 08:55:49">b71044e2978dc610e7dbbd0de053af6f</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 15:55:49</sys_created_on>
+                        <sys_id>b71044e2978dc610e7dbbd0de053af71</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 15:55:49</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-03-22 08:55:49">b71044e2978dc610e7dbbd0de053af6f</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 15:55:49</sys_created_on>
+                        <sys_id>f31044e2978dc610e7dbbd0de053af71</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 15:55:49</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="New Tab 1">eec4979e9749c610e7dbbd0de053afb9</page>
+                <summary>Books on repair</summary>
+                <sys_created_by>Helena</sys_created_by>
+                <sys_created_on>2024-03-22 15:52:24</sys_created_on>
+                <sys_id>bd5fb752978dc610e7dbbd0de053aff7</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Helena</sys_updated_by>
+                <sys_updated_on>2024-03-22 15:55:17</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2024-03-22 08:52:24">bd5fb752978dc610e7dbbd0de053aff7</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:50:52</sys_created_on>
+                        <sys_id>12bc846697cdc610e7dbbd0de053afcf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:50:52</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2024-03-22 08:52:24">bd5fb752978dc610e7dbbd0de053aff7</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:50:52</sys_created_on>
+                        <sys_id>12bc846697cdc610e7dbbd0de053afd0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:50:52</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2024-03-22 08:52:24">bd5fb752978dc610e7dbbd0de053aff7</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:50:52</sys_created_on>
+                        <sys_id>16bc846697cdc610e7dbbd0de053afcf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:50:52</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2024-03-22 08:52:24">bd5fb752978dc610e7dbbd0de053aff7</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:50:52</sys_created_on>
+                        <sys_id>16bc846697cdc610e7dbbd0de053afd0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:50:52</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2024-03-22 08:52:24">bd5fb752978dc610e7dbbd0de053aff7</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:50:52</sys_created_on>
+                        <sys_id>1abc846697cdc610e7dbbd0de053afcf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:50:52</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2024-03-22 08:52:24">bd5fb752978dc610e7dbbd0de053aff7</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:50:52</sys_created_on>
+                        <sys_id>1abc846697cdc610e7dbbd0de053afd0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:50:52</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2024-03-22 08:52:24">bd5fb752978dc610e7dbbd0de053aff7</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:50:52</sys_created_on>
+                        <sys_id>1ebc846697cdc610e7dbbd0de053afcf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:50:52</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-03-22 08:52:24">bd5fb752978dc610e7dbbd0de053aff7</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 15:52:24</sys_created_on>
+                        <sys_id>355fb752978dc610e7dbbd0de053affa</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 15:55:17</sys_updated_on>
+                        <value>Books on repair</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-03-22 08:52:24">bd5fb752978dc610e7dbbd0de053aff7</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 15:52:24</sys_created_on>
+                        <sys_id>395fb752978dc610e7dbbd0de053aff8</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 15:55:17</sys_updated_on>
+                        <value>f7fffb92978dc610e7dbbd0de053af73</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-03-22 08:52:24">bd5fb752978dc610e7dbbd0de053aff7</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 15:52:24</sys_created_on>
+                        <sys_id>715fb752978dc610e7dbbd0de053affa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 15:52:24</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-03-22 08:52:24">bd5fb752978dc610e7dbbd0de053aff7</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 15:52:24</sys_created_on>
+                        <sys_id>bd5fb752978dc610e7dbbd0de053aff9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 15:52:24</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2024-03-22 08:52:24">bd5fb752978dc610e7dbbd0de053aff7</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 16:50:52</sys_created_on>
+                        <sys_id>d2bc846697cdc610e7dbbd0de053afce</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:50:52</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-03-22 08:52:24">bd5fb752978dc610e7dbbd0de053aff7</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 15:52:24</sys_created_on>
+                        <sys_id>f95fb752978dc610e7dbbd0de053aff9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 15:52:24</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="New Tab 1">eec4979e9749c610e7dbbd0de053afb9</page>
+                <summary>Broken books</summary>
+                <sys_created_by>Helena</sys_created_by>
+                <sys_created_on>2024-03-22 15:59:17</sys_created_on>
+                <sys_id>eee008e2978dc610e7dbbd0de053af86</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Helena</sys_updated_by>
+                <sys_updated_on>2024-03-22 16:00:52</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-03-22 08:59:17">eee008e2978dc610e7dbbd0de053af86</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 15:59:17</sys_created_on>
+                        <sys_id>22e0c826978dc610e7dbbd0de053afd3</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:00:52</sys_updated_on>
+                        <value>Broken books</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-03-22 08:59:17">eee008e2978dc610e7dbbd0de053af86</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 15:59:17</sys_created_on>
+                        <sys_id>26e0c826978dc610e7dbbd0de053afd1</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 16:00:52</sys_updated_on>
+                        <value>e9418c26978dc610e7dbbd0de053af76</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-03-22 08:59:17">eee008e2978dc610e7dbbd0de053af86</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 15:59:17</sys_created_on>
+                        <sys_id>6ee0c826978dc610e7dbbd0de053afd2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 15:59:17</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-03-22 08:59:17">eee008e2978dc610e7dbbd0de053af86</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 15:59:17</sys_created_on>
+                        <sys_id>aae0c826978dc610e7dbbd0de053afd2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 15:59:17</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-03-22 08:59:17">eee008e2978dc610e7dbbd0de053af86</portal_section>
+                        <sys_created_by>Helena</sys_created_by>
+                        <sys_created_on>2024-03-22 15:59:17</sys_created_on>
+                        <sys_id>e6e0c826978dc610e7dbbd0de053afd2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Helena</sys_updated_by>
+                        <sys_updated_on>2024-03-22 15:59:17</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
