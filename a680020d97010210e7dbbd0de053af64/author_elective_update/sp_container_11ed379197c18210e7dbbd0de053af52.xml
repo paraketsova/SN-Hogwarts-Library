@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color>#000000</background_color>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>homepage-quicklinks</class_name>
+        <container_class_name/>
+        <name>Hogwarts Homepage - Container 5</name>
+        <order>5</order>
+        <semantic_tag/>
+        <sp_page display_value="index_new">09ed379197c18210e7dbbd0de053af01</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>Micke</sys_created_by>
+        <sys_created_on>2024-03-19 13:12:10</sys_created_on>
+        <sys_id>11ed379197c18210e7dbbd0de053af52</sys_id>
+        <sys_mod_count>21</sys_mod_count>
+        <sys_name>Hogwarts Homepage - Container 5</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sp_container_11ed379197c18210e7dbbd0de053af52</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-07 17:59:34</sys_updated_on>
+        <title>Quick Links</title>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Library Application">a680020d97010210e7dbbd0de053af64</application>
+        <file_path/>
+        <instance_id>9bc1cb9ddb72759402d9172913961995</instance_id>
+        <instance_name>dev227160</instance_name>
+        <name>sp_container_11ed379197c18210e7dbbd0de053af52</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color>#000000</background_color><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name>homepage-quicklinks</class_name><container_class_name/><name>Hogwarts Homepage - Container 5</name><order>5</order><semantic_tag/><sp_page display_value="index_new">09ed379197c18210e7dbbd0de053af01</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>Micke</sys_created_by><sys_created_on>2024-03-19 13:12:10</sys_created_on><sys_id>11ed379197c18210e7dbbd0de053af52</sys_id><sys_mod_count>21</sys_mod_count><sys_name>Hogwarts Homepage - Container 5</sys_name><sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package><sys_policy/><sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope><sys_update_name>sp_container_11ed379197c18210e7dbbd0de053af52</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-07 17:59:34</sys_updated_on><title>Quick Links</title><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-378048454</payload_hash>
+        <record_name>Hogwarts Homepage - Container 5</record_name>
+        <reverted_from/>
+        <source>a8e192269311021093c07fbcebba10b1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-07 17:59:34</sys_created_on>
+        <sys_id>68e576639355461093c07fbcebba10a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18eb9b730b10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-07 17:59:34</sys_updated_on>
+        <type>Container</type>
+        <update_guid>ece57663065546109f228231d601d3a2</update_guid>
+        <update_guid_history>ece57663065546109f228231d601d3a2:-378048454,5193f2af8c154610d26f0686d09eab5f:-1562203431,c6d2722f32154610c90d862e76aaece4:-465030154,22a2326f4a15461081baae2d60ca1c88:-1562203431,0261d66ac0110210f9cb07cbd2d34494:1197861730</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Hogwarts Homepage - Container 5">18993aa79355461093c07fbcebba1003</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-07 18:15:40</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>52135f2aeac14c08b31d01cfe8ae7be4</sys_id>
+        <sys_metadata>11ed379197c18210e7dbbd0de053af52</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hogwarts Homepage - Container 5</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_scope_delete display_value="">24f5bd0c63804281887d4a30a154c0d1</sys_scope_delete>
+        <sys_update_name>sp_container_11ed379197c18210e7dbbd0de053af52</sys_update_name>
+        <sys_update_version display_value="sp_container_11ed379197c18210e7dbbd0de053af52">68e576639355461093c07fbcebba10a3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-07 18:15:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

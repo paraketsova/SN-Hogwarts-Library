@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>3</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">11ed379197c18210e7dbbd0de053afdb</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-07 18:21:17</sys_created_on>
+        <sys_id>eeda362b9355461093c07fbcebba1033</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sp_instance_eeda362b9355461093c07fbcebba1033</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-07 18:26:04</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p id=\"title-hl\" style=\"text-align: center;\"><img src=\"x_1342778_library.raven-book.jpg\" height=\"250\" /></p>",
+		"displayValue": "<p id=\"title-hl\" style=\"text-align: center;\"><img src=\"x_1342778_library.raven-book.jpg\" height=\"250\" /></p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=eeda362b9355461093c07fbcebba1033"/>
+</record_update>

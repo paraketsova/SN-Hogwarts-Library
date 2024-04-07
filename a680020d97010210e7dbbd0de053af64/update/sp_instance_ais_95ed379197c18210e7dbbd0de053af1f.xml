@@ -9,7 +9,7 @@
         <glyph/>
         <id/>
         <order>1</order>
-        <placeholder>Find books, textbooks and new friends!</placeholder>
+        <placeholder/>
         <roles/>
         <search_application display_value="Quick Action - KB Search ">492f958dc30101103f4fcd7b7940dd2a</search_application>
         <search_results_configuration display_value="Service Portal Search">80eb579d53671010968addeeff7b1215</search_results_configuration>
@@ -22,20 +22,20 @@
         <sys_created_by>Micke</sys_created_by>
         <sys_created_on>2024-03-19 13:12:09</sys_created_on>
         <sys_id>95ed379197c18210e7dbbd0de053af1f</sys_id>
-        <sys_mod_count>23</sys_mod_count>
-        <sys_name>Find books, textbooks and new friends!</sys_name>
+        <sys_mod_count>26</sys_mod_count>
+        <sys_name/>
         <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
         <sys_update_name>sp_instance_ais_95ed379197c18210e7dbbd0de053af1f</sys_update_name>
-        <sys_updated_by>Maria</sys_updated_by>
-        <sys_updated_on>2024-03-24 09:39:42</sys_updated_on>
-        <title>Find books, textbooks and new friends!</title>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-07 18:14:09</sys_updated_on>
+        <title/>
         <url/>
         <widget_parameters><![CDATA[{
 	"typeahead_search": {
-		"value": "",
-		"displayValue": ""
+		"value": "{title: 'What would you like to find?', size: 'm', colour: 'default'}",
+		"displayValue": "{title: 'What would you like to find?', size: 'm', colour: 'default'}"
 	}
 }]]></widget_parameters>
     </sp_instance_ais>
