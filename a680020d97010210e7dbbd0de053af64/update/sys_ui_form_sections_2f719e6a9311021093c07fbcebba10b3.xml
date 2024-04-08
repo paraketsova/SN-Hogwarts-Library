@@ -17,16 +17,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-04 12:46:39</sys_created_on>
+            <sys_created_on>2024-04-08 07:44:07</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a3719e6a9311021093c07fbcebba10b5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>cb92f1b39315861093c07fbcebba101a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_1342778_library_book" name="x_1342778_library_book" sys_domain="global" view="Default view">2f719e6a9311021093c07fbcebba10b3</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="x_1342778_library_book" sys_domain="global" view="Default view">7c6b0b5797414e10e7dbbd0de053af50</sys_ui_section>
+            <sys_ui_section caption="Status" display_value="Status" name="x_1342778_library_book" sys_domain="global" view="Default view">4392b1b39315861093c07fbcebba109b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-04 12:46:39</sys_updated_on>
+            <sys_updated_on>2024-04-08 07:48:43</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1342778_library_book</name>

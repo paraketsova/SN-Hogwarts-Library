@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="9533fdb39315861093c07fbcebba106b" sys_domain="global" table="x_1342778_library_book" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>author</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-08 07:46:45</sys_created_on>
+            <sys_id>253331f39315861093c07fbcebba103c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-08 07:46:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>isbn</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-08 07:46:45</sys_created_on>
+            <sys_id>2d3331f39315861093c07fbcebba103c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-08 07:46:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subject</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-08 07:46:45</sys_created_on>
+            <sys_id>253331f39315861093c07fbcebba103d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-08 07:46:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-08 07:46:45</sys_created_on>
+            <sys_id>2d3331f39315861093c07fbcebba103d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-08 07:46:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-08 07:46:45</sys_created_on>
+            <sys_id>253331f39315861093c07fbcebba103e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-08 07:46:45</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>language</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-08 07:46:45</sys_created_on>
+            <sys_id>2d3331f39315861093c07fbcebba103e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-08 07:46:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>edition</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-08 07:46:45</sys_created_on>
+            <sys_id>253331f39315861093c07fbcebba103f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-08 07:46:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>format</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-08 07:46:45</sys_created_on>
+            <sys_id>2d3331f39315861093c07fbcebba103f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-08 07:46:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pegi</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-08 07:46:45</sys_created_on>
+            <sys_id>253331f39315861093c07fbcebba1040</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-08 07:46:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>copies</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-08 07:46:45</sys_created_on>
+            <sys_id>2d3331f39315861093c07fbcebba1040</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-08 07:46:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_1342778_library_book</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-08 07:46:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9533fdb39315861093c07fbcebba106b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1342778_library_book</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+            <sys_update_name>sys_ui_section_9533fdb39315861093c07fbcebba106b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-08 07:46:44</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Library Application">a680020d97010210e7dbbd0de053af64</application>
+        <file_path/>
+        <instance_id>9bc1cb9ddb72759402d9172913961995</instance_id>
+        <instance_name>dev227160</instance_name>
+        <name>sys_ui_section_9533fdb39315861093c07fbcebba106b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="9533fdb39315861093c07fbcebba106b" sys_domain="global" table="x_1342778_library_book" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>author</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-08 07:46:45</sys_created_on><sys_id>253331f39315861093c07fbcebba103c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-08 07:46:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>isbn</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-08 07:46:45</sys_created_on><sys_id>2d3331f39315861093c07fbcebba103c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-08 07:46:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>subject</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-08 07:46:45</sys_created_on><sys_id>253331f39315861093c07fbcebba103d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-08 07:46:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>type</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-08 07:46:45</sys_created_on><sys_id>2d3331f39315861093c07fbcebba103d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-08 07:46:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-08 07:46:45</sys_created_on><sys_id>253331f39315861093c07fbcebba103e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-08 07:46:45</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>language</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-08 07:46:45</sys_created_on><sys_id>2d3331f39315861093c07fbcebba103e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-08 07:46:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>edition</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-08 07:46:45</sys_created_on><sys_id>253331f39315861093c07fbcebba103f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-08 07:46:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>format</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-08 07:46:45</sys_created_on><sys_id>2d3331f39315861093c07fbcebba103f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-08 07:46:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>pegi</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-08 07:46:45</sys_created_on><sys_id>253331f39315861093c07fbcebba1040</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-08 07:46:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>copies</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-08 07:46:45</sys_created_on><sys_id>2d3331f39315861093c07fbcebba1040</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1342778_library_book" sys_domain="global" view="Default view">9533fdb39315861093c07fbcebba106b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-08 07:46:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_1342778_library_book</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-08 07:46:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9533fdb39315861093c07fbcebba106b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1342778_library_book</sys_name><sys_overrides/><sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package><sys_policy/><sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope><sys_update_name>sys_ui_section_9533fdb39315861093c07fbcebba106b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-08 07:46:44</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1631556854</payload_hash>
+        <record_name>Book</record_name>
+        <reverted_from/>
+        <source>a8e192269311021093c07fbcebba10b1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-08 07:46:45</sys_created_on>
+        <sys_id>653331f39315861093c07fbcebba1043</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ebcac81d40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-08 07:46:45</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>e93331f332158610cc11f3f7a962ac42</update_guid>
+        <update_guid_history>e93331f332158610cc11f3f7a962ac42:1631556854</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-08 07:48:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>449519c6ec7b4734b5c8683938968a10</sys_id>
+        <sys_metadata>9533fdb39315861093c07fbcebba106b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_parent display_value="Book">a40e820197c10210e7dbbd0de053afbf</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_scope_delete display_value="">24f5bd0c63804281887d4a30a154c0d1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_9533fdb39315861093c07fbcebba106b</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_9533fdb39315861093c07fbcebba106b">653331f39315861093c07fbcebba1043</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-08 07:48:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
