@@ -16,6 +16,11 @@
     margine-top: 2rem;
 }
 
+#title-hl img {
+  padding: 0 !important;
+  margin-left: -5rem;
+}
+
 p {
     font-size: 1em;
     padding: 15px 0px;
@@ -115,14 +120,14 @@ a:active {
         <sys_created_by>Maria</sys_created_by>
         <sys_created_on>2024-03-22 07:40:44</sys_created_on>
         <sys_id>bfce029a9781c610e7dbbd0de053af7f</sys_id>
-        <sys_mod_count>119</sys_mod_count>
+        <sys_mod_count>120</sys_mod_count>
         <sys_name>hogwarts_landing_page</sys_name>
         <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
         <sys_update_name>sp_page_bfce029a9781c610e7dbbd0de053af7f</sys_update_name>
-        <sys_updated_by>maria</sys_updated_by>
-        <sys_updated_on>2024-03-26 09:54:45</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-08 09:31:23</sys_updated_on>
         <title>Hogwarts landing page</title>
         <use_seo_script>false</use_seo_script>
     </sp_page>
