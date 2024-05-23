@@ -6,23 +6,23 @@
         <bootstrap_alt>false</bootstrap_alt>
         <class_name/>
         <container_class_name/>
-        <name>Hogwarts landing page - Container 2</name>
-        <order>2</order>
+        <name>Hogwarts landing page - Container 1</name>
+        <order>1</order>
         <semantic_tag/>
         <sp_page display_value="hogwarts_landing_page">bfce029a9781c610e7dbbd0de053af7f</sp_page>
         <subheader>false</subheader>
         <sys_class_name>sp_container</sys_class_name>
-        <sys_created_by>Maria</sys_created_by>
-        <sys_created_on>2024-03-23 19:02:45</sys_created_on>
-        <sys_id>3b74fd36978d4a10e7dbbd0de053af8e</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>Hogwarts landing page - Container 2</sys_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-23 17:03:34</sys_created_on>
+        <sys_id>b0326312831282103533cf50ceaad340</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hogwarts landing page - Container 1</sys_name>
         <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
         <sys_policy/>
         <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
-        <sys_update_name>sp_container_3b74fd36978d4a10e7dbbd0de053af8e</sys_update_name>
+        <sys_update_name>sp_container_b0326312831282103533cf50ceaad340</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-07 17:40:53</sys_updated_on>
+        <sys_updated_on>2024-05-23 17:03:34</sys_updated_on>
         <title/>
         <width>container</width>
     </sp_container>

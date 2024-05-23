@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Getting book title</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+
+    var getBookTitle = new GlideAjax('BookTitleUtils');
+    getBookTitle.addParam('sysparm_name', 'findBookTitle');
+    getBookTitle.addParam('sysparm_book_title', newValue);
+
+    //user getXml for one piece of information (JSON = obj + retrive multiple values)
+    getBookTitle.getXML(responseParse);
+
+    function responseParse(response) {
+        var answerfromXML = response.responseXML.documentElement.getAttribute('answer');
+        //'answer' already exist in the XML that is being sent back to you
+        g_form.setValue('requested_book_reserved_books', answerfromXML);
+    }
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-23 15:28:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>38eb0b56839e42103533cf50ceaad370</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Getting book title</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sys_script_client_38eb0b56839e42103533cf50ceaad370</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-23 15:40:32</sys_updated_on>
+        <table>x_1342778_library_reserved_books</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Library Application">a680020d97010210e7dbbd0de053af64</application>
+        <file_path/>
+        <instance_id>70853b57dbd90ad4ebdd2a5913961905</instance_id>
+        <instance_name>dev257581</instance_name>
+        <name>sys_script_client_38eb0b56839e42103533cf50ceaad370</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Getting book title&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+
+    var getBookTitle = new GlideAjax('BookTitleUtils');
+    getBookTitle.addParam('sysparm_name', 'findBookTitle');
+    getBookTitle.addParam('sysparm_book_title', newValue);
+
+    //user getXml for one piece of information (JSON = obj + retrive multiple values)
+    getBookTitle.getXML(responseParse);
+
+    function responseParse(response) {
+        var answerfromXML = response.responseXML.documentElement.getAttribute('answer');
+        //'answer' already exist in the XML that is being sent back to you
+        g_form.setValue('requested_book_reserved_books', answerfromXML);
+    }
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-05-23 15:28:18&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;38eb0b56839e42103533cf50ceaad370&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Getting book title&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Library Application" source="x_1342778_library"&gt;a680020d97010210e7dbbd0de053af64&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Library Application"&gt;a680020d97010210e7dbbd0de053af64&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_38eb0b56839e42103533cf50ceaad370&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-05-23 15:40:32&lt;/sys_updated_on&gt;&lt;table&gt;x_1342778_library_reserved_books&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>943685271</payload_hash>
+        <record_name>Getting book title</record_name>
+        <reverted_from/>
+        <source>d0e5354683d202103533cf50ceaad358</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-23 15:40:32</sys_created_on>
+        <sys_id>2c3fcb5a839e42103533cf50ceaad33c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fa61c6e1d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-23 15:40:32</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>683fc3d2549e4210b0d560469b7b6ce5</update_guid>
+        <update_guid_history>683fc3d2549e4210b0d560469b7b6ce5:943685271,6fce43d2929e421048e1517b3c127e59:-652055470,556c8396729e421003c44c5fc061f2fd:223123434</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-23 15:44:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>13244deb534d477e89f9e0d1c0b434a4</sys_id>
+        <sys_metadata>38eb0b56839e42103533cf50ceaad370</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Getting book title</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_parent display_value="Reserved books">ffaba5b997c10610e7dbbd0de053af9e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_scope_delete display_value="">24f5bd0c63804281887d4a30a154c0d1</sys_scope_delete>
+        <sys_update_name>sys_script_client_38eb0b56839e42103533cf50ceaad370</sys_update_name>
+        <sys_update_version display_value="sys_script_client_38eb0b56839e42103533cf50ceaad370">2c3fcb5a839e42103533cf50ceaad33c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-23 15:44:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

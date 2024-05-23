@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">a5b43576978d4a10e7dbbd0de053afb0</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-07 17:36:42</sys_created_on>
+        <sys_id>25a0fe6b9315461093c07fbcebba1055</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sp_instance_25a0fe6b9315461093c07fbcebba1055</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-22 14:54:54</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p id=\"title-hl\" style=\"text-align: center;\"><img src=\"x_1342778_library.HL library title.png\" height=\"270\" /></p>",
+		"displayValue": "<p id=\"title-hl\" style=\"text-align: center;\"><img src=\"x_1342778_library.HL library title.png\" height=\"270\" /></p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=25a0fe6b9315461093c07fbcebba1055"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Library Application">a680020d97010210e7dbbd0de053af64</application>
+        <file_path/>
+        <instance_id>70853b57dbd90ad4ebdd2a5913961905</instance_id>
+        <instance_name>dev257581</instance_name>
+        <name>sp_instance_25a0fe6b9315461093c07fbcebba1055</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;a5b43576978d4a10e7dbbd0de053afb0&lt;/sp_column&gt;&lt;sp_widget display_value="HTML"&gt;8679ef89cb21120000f8d856634c9c4f&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-04-07 17:36:42&lt;/sys_created_on&gt;&lt;sys_id&gt;25a0fe6b9315461093c07fbcebba1055&lt;/sys_id&gt;&lt;sys_mod_count&gt;14&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Library Application" source="x_1342778_library"&gt;a680020d97010210e7dbbd0de053af64&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Library Application"&gt;a680020d97010210e7dbbd0de053af64&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_25a0fe6b9315461093c07fbcebba1055&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-05-22 14:54:54&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"html": {
+		"value": "&lt;p id=\"title-hl\" style=\"text-align: center;\"&gt;&lt;img src=\"x_1342778_library.HL library title.png\" height=\"270\" /&gt;&lt;/p&gt;",
+		"displayValue": "&lt;p id=\"title-hl\" style=\"text-align: center;\"&gt;&lt;img src=\"x_1342778_library.HL library title.png\" height=\"270\" /&gt;&lt;/p&gt;"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=25a0fe6b9315461093c07fbcebba1055"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>265083193</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>d0e5354683d202103533cf50ceaad358</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-22 14:54:54</sys_created_on>
+        <sys_id>de2bb982831602103533cf50ceaad300</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fa0cc4afd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-22 14:54:54</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>562bb982ec1602102c6ecc0176484f00</update_guid>
+        <update_guid_history>562bb982ec1602102c6ecc0176484f00:265083193,5c2b79828516021000d90124d96af5a4:918446527,e62a7d0260160210ea1e1c9dffe2a08a:265083193,111ab142831602109718f14b7cd7ffde:-988176897,470a71421d160210c07901b2811601d7:-1018921503,22f975021a16021033c3ce8bf5ad374a:-673484099,fae9bd02021602107898704c74510d95:1275064967,47d97d023316021087885b672f6e845f:-313122929,8ac9f902be160210bc9a3c8692f3185f:-1733016705,f1a9fdced6d20210f0af865808275704:380583189,7c05314a01d20210501ba7b3bc8a6a69:1972144005</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">1153af92831282103533cf50ceaad379</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-23 17:08:31</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>568baf0b54724f3995fc84ca0f9c9ce9</sys_id>
+        <sys_metadata>25a0fe6b9315461093c07fbcebba1055</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_scope_delete display_value="">24f5bd0c63804281887d4a30a154c0d1</sys_scope_delete>
+        <sys_update_name>sp_instance_25a0fe6b9315461093c07fbcebba1055</sys_update_name>
+        <sys_update_version display_value="sp_instance_25a0fe6b9315461093c07fbcebba1055">de2bb982831602103533cf50ceaad300</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-23 17:08:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
