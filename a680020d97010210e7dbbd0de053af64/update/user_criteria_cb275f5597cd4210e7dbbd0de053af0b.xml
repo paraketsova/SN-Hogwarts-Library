@@ -33,4 +33,5 @@
         <sys_updated_on>2024-03-25 10:26:41</sys_updated_on>
         <user>6816f79cc0a8016401c5a33be04be441,9df74b0c97850210e7dbbd0de053af70,cc88438097c50210e7dbbd0de053af38,7d825ac597c10210e7dbbd0de053afc4,218b8ed797c90e10e7dbbd0de053af17,1cab461b97c90e10e7dbbd0de053af41</user>
     </user_criteria>
+    <sys_translated_text action="delete_multiple" query="documentkey=cb275f5597cd4210e7dbbd0de053af0b"/>
 </record_update>

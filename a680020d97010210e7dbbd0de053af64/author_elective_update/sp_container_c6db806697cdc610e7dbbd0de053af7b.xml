@@ -52,7 +52,7 @@
         <update_guid_history>ffc86a6f77d14610e403ad8d3d610c0a:227532312,5261d66a2e1102102fdaf6a34be59abe:1996790920</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Hogwarts landing page - Container 2">729132eb9315461093c07fbcebba1047</sys_audit_delete>
+        <sys_audit_delete display_value="">729132eb9315461093c07fbcebba1047</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-07 17:40:53</sys_created_on>

@@ -80,7 +80,7 @@
         <update_guid_history>de61d66ada1102102cb68eb2d030b4c1:2009207858</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Hogwarts Homepage - Container 5">63a376af9315461093c07fbcebba10cd</sys_audit_delete>
+        <sys_audit_delete display_value="">63a376af9315461093c07fbcebba10cd</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Maria</sys_created_by>
         <sys_created_on>2024-04-07 17:49:57</sys_created_on>

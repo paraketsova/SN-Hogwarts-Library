@@ -52,7 +52,7 @@
         <update_guid_history>ece57663065546109f228231d601d3a2:-378048454,5193f2af8c154610d26f0686d09eab5f:-1562203431,c6d2722f32154610c90d862e76aaece4:-465030154,22a2326f4a15461081baae2d60ca1c88:-1562203431,0261d66ac0110210f9cb07cbd2d34494:1197861730</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Hogwarts Homepage - Container 5">18993aa79355461093c07fbcebba1003</sys_audit_delete>
+        <sys_audit_delete display_value="">18993aa79355461093c07fbcebba1003</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-07 18:15:40</sys_created_on>

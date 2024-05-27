@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>3a869aef831202103533cf50ceaad325</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1342778_library_book">
+    <x_1342778_library_book action="INSERT_OR_UPDATE">
+        <author display_value="Hooch">72c61ae3835202103533cf50ceaad364</author>
+        <available>true</available>
+        <borrowed_by/>
+        <condition>5</condition>
+        <copies>1</copies>
+        <edition>2</edition>
+        <format>book</format>
+        <isbn>9711678602089</isbn>
+        <language>swedish</language>
+        <number>BOOK0001015</number>
+        <pegi>7</pegi>
+        <reserved_by/>
+        <status>available</status>
+        <subject>Flying</subject>
+        <sys_class_name>x_1342778_library_book</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-27 08:46:19</sys_created_on>
+        <sys_id>3a869aef831202103533cf50ceaad325</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-27 09:21:49</sys_updated_on>
+        <title>Kvastflygning</title>
+        <type>monograph</type>
+        <u_reference_1/>
+        <u_reference_2/>
+        <u_reference_3/>
+    </x_1342778_library_book>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-27 09:38:15</sys_created_on>
+        <sys_id>e4a26a23839202103533cf50ceaad37c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BOOK0001015</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sys_metadata_link_e4a26a23839202103533cf50ceaad37c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-27 09:38:15</sys_updated_on>
+        <tablename>x_1342778_library_book</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_1342778_library_book" element="NULL" name="x_1342778_library_book" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="e384f0717d31311076daf29f52070d7d">1c117d8697494610e7dbbd0de053af94</list_id>
+            <list_id display_value="x_1342778_library_book" element="NULL" name="x_1342778_library_book" parent="NULL" relationship="NULL" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="632ca1528d30021087de63ac7f1f0028">1c117d8697494610e7dbbd0de053af94</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -40,7 +40,7 @@
             <sys_updated_by>Maria</sys_updated_by>
             <sys_updated_on>2024-03-21 10:52:19</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">e384f0717d31311076daf29f52070d7d</view>
+            <view display_value="Reference List" name="sys_ref_list">632ca1528d30021087de63ac7f1f0028</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

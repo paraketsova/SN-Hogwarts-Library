@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>55fed2a7835202103533cf50ceaad346</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1342778_library_book">
+    <x_1342778_library_book action="INSERT_OR_UPDATE">
+        <author display_value="Twycross">019e4aeb831202103533cf50ceaad368</author>
+        <available>true</available>
+        <borrowed_by/>
+        <condition>1</condition>
+        <copies>1</copies>
+        <edition>3</edition>
+        <format>e_book</format>
+        <isbn>9781897779875</isbn>
+        <language>swedish</language>
+        <number>BOOK0001016</number>
+        <pegi>16</pegi>
+        <reserved_by/>
+        <status>available</status>
+        <subject>Transfiguration</subject>
+        <sys_class_name>x_1342778_library_book</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-27 09:23:07</sys_created_on>
+        <sys_id>55fed2a7835202103533cf50ceaad346</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-27 09:23:07</sys_updated_on>
+        <title>Transferens</title>
+        <type>thesis</type>
+        <u_reference_1/>
+        <u_reference_2/>
+        <u_reference_3/>
+    </x_1342778_library_book>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-27 09:38:15</sys_created_on>
+        <sys_id>eca2a267839202103533cf50ceaad3c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BOOK0001016</sys_name>
+        <sys_package display_value="Library Application" source="x_1342778_library">a680020d97010210e7dbbd0de053af64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Application">a680020d97010210e7dbbd0de053af64</sys_scope>
+        <sys_update_name>sys_metadata_link_eca2a267839202103533cf50ceaad3c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-27 09:38:15</sys_updated_on>
+        <tablename>x_1342778_library_book</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -87,7 +87,7 @@
         <update_guid_history>6d37e6eb22d146109b2429cb692b6a7e:-41147519,5d37e6ebe5d14610327e9e9618226979:-1036483769,dd37e6eba5d146108c2f1e9d4d3f5a76:1376962709,fa276aab92d146103432fe7beb0ce127:-1158351934</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_1342778_library.title.png">707abae79355461093c07fbcebba1094</sys_audit_delete>
+        <sys_audit_delete display_value="">707abae79355461093c07fbcebba1094</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-07 18:19:31</sys_created_on>
